@@ -17,6 +17,7 @@
 		DA7020B527EC951B00FE30D3 /* URModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7020B427EC951B00FE30D3 /* URModels.swift */; };
 		DA7020B727EC999300FE30D3 /* most_viewed.json in Resources */ = {isa = PBXBuildFile; fileRef = DA7020B627EC999300FE30D3 /* most_viewed.json */; };
 		DA7020BB27EC9C7B00FE30D3 /* Program.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7020BA27EC9C7B00FE30D3 /* Program.swift */; };
+		DA7020BF27ECA5DE00FE30D3 /* SRModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7020BE27ECA5DE00FE30D3 /* SRModels.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		DA7020B427EC951B00FE30D3 /* URModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URModels.swift; sourceTree = "<group>"; };
 		DA7020B627EC999300FE30D3 /* most_viewed.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = most_viewed.json; sourceTree = "<group>"; };
 		DA7020BA27EC9C7B00FE30D3 /* Program.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Program.swift; sourceTree = "<group>"; };
+		DA7020BE27ECA5DE00FE30D3 /* SRModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SRModels.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,8 @@
 		DA7020B227EC82D500FE30D3 /* Providers */ = {
 			isa = PBXGroup;
 			children = (
+				DA7020BC27ECA58400FE30D3 /* SR */,
+				DA7020BD27ECA58A00FE30D3 /* SVT */,
 				DA7020B327EC82DC00FE30D3 /* UR */,
 			);
 			path = Providers;
@@ -150,6 +154,21 @@
 				DA7020B427EC951B00FE30D3 /* URModels.swift */,
 			);
 			path = UR;
+			sourceTree = "<group>";
+		};
+		DA7020BC27ECA58400FE30D3 /* SR */ = {
+			isa = PBXGroup;
+			children = (
+				DA7020BE27ECA5DE00FE30D3 /* SRModels.swift */,
+			);
+			path = SR;
+			sourceTree = "<group>";
+		};
+		DA7020BD27ECA58A00FE30D3 /* SVT */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = SVT;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -287,6 +306,7 @@
 				DA70208B27EC767B00FE30D3 /* ContentView.swift in Sources */,
 				DA70208927EC767B00FE30D3 /* Public_PlayApp.swift in Sources */,
 				DA7020B527EC951B00FE30D3 /* URModels.swift in Sources */,
+				DA7020BF27ECA5DE00FE30D3 /* SRModels.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
