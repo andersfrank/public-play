@@ -56,3 +56,16 @@ extension Program {
         self.provider = .sr
     }
 }
+
+extension Program {
+    init(svtProgram program: SVTProgramWrapper) {
+        self.id = Int(program.item.id)!
+        self.title = program.heading
+        self.description = program.subHeading
+        self.image = URL(string: "https://www.svtstatic.se/image/original/400/\(program.images.wide.id)/\(program.images.wide.changed)")!
+        self.url = URL(string: "https://www.svtplay.se\(program.item.urls.svtplay)")
+        self.provider = .svt
+    }
+}
+
+
