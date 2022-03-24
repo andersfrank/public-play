@@ -24,21 +24,23 @@ struct ContentView: View {
                             .font(.subheadline)
                     }
                         
-                }.onTapGesture {
-                    openProgram()
                 }
             }
         }.onAppear(perform: loadData).navigationTitle("Populärt")
     }
     
     private func loadData() {
-        self.programs = loadURPrograms()
+        self.programs = loadSRPrograms() + loadURPrograms() 
         print(self.programs)
     }
     
     private func loadURPrograms() -> [Program] {
         guard let products = SearchResponse.loadJSON()?.results else  { return [] }
         return products.compactMap { Program(urProduct: $0) }
+    }
+    private func loadSRPrograms() -> [Program] {
+        guard let programs = SRPopular.loadJSON()?.collection else  { return [] }
+        return programs.compactMap { Program(srProgram: $0) }
     }
 }
 

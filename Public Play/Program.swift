@@ -45,3 +45,14 @@ extension Program {
         self.provider = .ur
     }
 }
+
+extension Program {
+    init(srProgram program: SRProgram) {
+        self.id = Int(program.id)!
+        self.title = program.title
+        self.description = program.description
+        self.image = program.image
+        self.url = program.url
+        self.provider = .sr
+    }
+}
