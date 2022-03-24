@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B75C958127ECA6A100A78A69 /* sr-popular-2022-03-24.json in Resources */ = {isa = PBXBuildFile; fileRef = B75C958027ECA6A100A78A69 /* sr-popular-2022-03-24.json */; };
 		DA70208927EC767B00FE30D3 /* Public_PlayApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA70208827EC767B00FE30D3 /* Public_PlayApp.swift */; };
 		DA70208B27EC767B00FE30D3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA70208A27EC767B00FE30D3 /* ContentView.swift */; };
 		DA70208D27EC767C00FE30D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA70208C27EC767C00FE30D3 /* Assets.xcassets */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B75C958027ECA6A100A78A69 /* sr-popular-2022-03-24.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "sr-popular-2022-03-24.json"; sourceTree = "<group>"; };
 		DA70208527EC767B00FE30D3 /* Public Play.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Public Play.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA70208827EC767B00FE30D3 /* Public_PlayApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Public_PlayApp.swift; sourceTree = "<group>"; };
 		DA70208A27EC767B00FE30D3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 		DA7020BC27ECA58400FE30D3 /* SR */ = {
 			isa = PBXGroup;
 			children = (
+				B75C958027ECA6A100A78A69 /* sr-popular-2022-03-24.json */,
 				DA7020BE27ECA5DE00FE30D3 /* SRModels.swift */,
 			);
 			path = SR;
@@ -276,6 +279,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA7020B727EC999300FE30D3 /* most_viewed.json in Resources */,
+				B75C958127ECA6A100A78A69 /* sr-popular-2022-03-24.json in Resources */,
 				DA70209027EC767C00FE30D3 /* Preview Assets.xcassets in Resources */,
 				DA70208D27EC767C00FE30D3 /* Assets.xcassets in Resources */,
 			);

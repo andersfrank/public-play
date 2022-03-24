@@ -1,0 +1,145 @@
+{
+  "title": "Populära SR program",
+  "collection": [
+    {
+      "id": "2519",
+      "title": "P3 Dokumentär",
+      "description": "Sveriges största podd om vår tids mest spännande och viktiga händelser.",
+      "image": "https://static-cdn.sr.se/images/2519/1d4067ea-a489-4a20-a392-04b0f838acaa.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=2519"
+    },
+    {
+      "id": "4540",
+      "title": "Ekot",
+      "description": "Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning – från Sverige och världen.",
+      "image": "https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=4540"
+    },
+    {
+      "id": "5067",
+      "title": "P3 Historia",
+      "description": "Om personerna som skapade vår historia. Missade du historielektionerna har du en ny chans nu!",
+      "image": "https://static-cdn.sr.se/images/5067/ec2377c4-ffc7-481b-bacd-7fea4e1e998f.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=5067"
+    },
+    {
+      "id": "4845",
+      "title": "Creepypodden i P3",
+      "description": "Sveriges kusligaste podd, där du hör nätets och lyssnarnas bästa skräckhistorier och vandringssägner.",
+      "image": "https://static-cdn.sr.se/images/4845/cf0a4480-e90d-462a-96b9-66e2827b59bf.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=4845"
+    },
+    {
+      "id": "5413",
+      "title": "P3 Krim",
+      "description": "Varje vecka ger Evalisa Wallin och Viktor Ahldén dig aktuella berättelser om brott och straff. Du får koll på krim.",
+      "image": "https://static-cdn.sr.se/images/5413/3db4532f-6035-4771-ae69-6d82f8dfda6c.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=5413"
+    },
+    {
+      "id": "2024",
+      "title": "Morgonpasset i P3",
+      "description": "Kom in i värmen! Varje morgon i P3 är en fartfylld resa, full av intryck.",
+      "image": "https://static-cdn.sr.se/images/2024/22f26e59-3c98-4848-98c9-b59f7dcd96dc.png",
+      "url": "https://sverigesradio.se/default.aspx?programid=2024"
+    },
+    {
+      "id": "909",
+      "title": "P1 Dokumentär",
+      "description": "Berättelser från verkligheten",
+      "image": "https://static-cdn.sr.se/images/909/54ceb9ab-d94b-4259-b82d-f3c9e6ac6022.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=909"
+    },
+    {
+      "id": "2071",
+      "title": "Sommar & Vinter i P1",
+      "description": "I Sommar i P1 och Vinter i P1 hör du våra sommarpratare - personliga berättelser som definierar vår tid.",
+      "image": "https://static-cdn.sr.se/images/2071/dfc7f046-0ead-4640-8198-53d51ddff9a7.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=2071"
+    },
+    {
+      "id": "5380",
+      "title": "Nyhetsuppdatering från Ekot",
+      "description": "Senaste nytt varje timme från Ekoredaktionen.",
+      "image": "https://static-cdn.sr.se/images/5380/bd64d128-9787-4a22-8a62-d7e83abbbb6e.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=5380"
+    },
+    {
+      "id": "5419",
+      "title": "Fråga Agnes Wold",
+      "description": "En podd med Agnes Wold och Christer Lundberg om hälsomyter, coronavirus och riskerna med att bädda sängen.",
+      "image": "https://static-cdn.sr.se/images/5419/78960b00-08ef-4337-aefe-4c441850a800.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=5419"
+    },
+    {
+      "id": "5343",
+      "title": "P3 ID",
+      "description": "Starka berättelser om vår tids mest spännande personer. Hör historien bakom kändisskapet.",
+      "image": "https://static-cdn.sr.se/images/5343/54abff77-f115-4894-bc64-d63f648a62e6.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=5343"
+    },
+    {
+      "id": "4772",
+      "title": "Söndagsintervjun",
+      "description": "Möt personen bakom offentlighetens mask i journalistikens mest grundläggande form – intervjun.",
+      "image": "https://static-cdn.sr.se/images/4772/d600c6ff-0f36-4eb6-ad9a-f9654d90a07c.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=4772"
+    },
+    {
+      "id": "1637",
+      "title": "Studio Ett",
+      "description": "Fördjupar dagens stora händelser i Sverige och världen.",
+      "image": "https://static-cdn.sr.se/images/1637/52b42ba8-6215-4aac-b4dd-7bd752396df8.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=1637"
+    },
+    {
+      "id": "4923",
+      "title": "USApodden",
+      "description": "Sveriges största och skarpaste podd om amerikansk politik.",
+      "image": "https://static-cdn.sr.se/images/4923/75306c46-5eea-457c-bd45-b0a45c4257ad.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=4923"
+    },
+    {
+      "id": "178",
+      "title": "Ekonomiekot",
+      "description": "Ekonomiekot är Ekots nyhetsprogram om senaste nytt i ekonomins värld.",
+      "image": "https://static-cdn.sr.se/images/178/28ce89c0-6cb1-490e-aa2a-fe5192b65269.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=178"
+    },
+    {
+      "id": "1300",
+      "title": "Konflikt",
+      "description": "Konflikt är Sveriges Radios fördjupande utrikesmagasin. Vi knyter ihop världspolitik och svensk vardag.",
+      "image": "https://static-cdn.sr.se/images/1300/407b92a3-f379-4699-be0e-b82865821706.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=1300"
+    },
+    {
+      "id": "4765",
+      "title": "Morgonpasset i P3 – Gästen",
+      "description": "Vetenskap, udda djur, historia och spännande händelser. Morgonpasset i P3 tar sig an kända och okända gäster och pratar om spännande, galna och oväntade ämnen.",
+      "image": "https://static-cdn.sr.se/images/4765/3cb3af06-f74c-4a84-a6b7-c52c11f2ee64.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=4765"
+    },
+    {
+      "id": "5449",
+      "title": "Gräns",
+      "description": "Förstå hur Sverige försvarar sig mot hoten som finns här och nu. En podd om säkerhetspolitik och maktspelen som sker i det dolda.",
+      "image": "https://static-cdn.sr.se/images/5449/9ba44f08-4666-4bae-b734-adbb2c764bec.jpeg",
+      "url": "https://sverigesradio.se/default.aspx?programid=5449"
+    },
+    {
+      "id": "516",
+      "title": "Spanarna",
+      "description": "Spanarna är ett program och en podd för dig som gillar samhällsspaning med humor. Tre skarpsynta personligheter försöker avläsa trender i vår vardag och ge oss sina framtidsvisioner.",
+      "image": "https://static-cdn.sr.se/images/516/cd90ad05-198a-4aea-bd2a-0191dfd14cf7.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=516"
+    },
+    {
+      "id": "3103",
+      "title": "P4 Dokumentär",
+      "description": "Berättelser som berör",
+      "image": "https://static-cdn.sr.se/images/3103/6877c372-6a4f-4c92-be63-3275f8072d45.jpg",
+      "url": "https://sverigesradio.se/default.aspx?programid=3103"
+    }
+  ]
+}
