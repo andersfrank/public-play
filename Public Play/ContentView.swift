@@ -8,9 +8,37 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var programs: [Program] = []
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        List {
+            ForEach(programs) { program in
+                HStack {
+                    AsyncImage(url: program.image)
+                        .aspectRatio(contentMode: .fit)
+                        .frame(width: 50.0, height: 50.0)
+                        .clipped()
+                    VStack(alignment: .leading) {
+                        Text(program.title)
+                            .font(.headline)
+                        Text(program.description)
+                            .font(.subheadline)
+                    }
+                        
+                }.onTapGesture {
+                    openProgram()
+                }
+            }
+        }.onAppear(perform: loadData).navigationTitle("Populärt")
+    }
+    
+    private func loadData() {
+        self.programs = loadURPrograms()
+        print(self.programs)
+    }
+    
+    private func loadURPrograms() -> [Program] {
+        guard let products = SearchResponse.loadJSON()?.results else  { return [] }
+        return products.compactMap { Program(urProduct: $0) }
     }
 }
 

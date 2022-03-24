@@ -1,0 +1,3302 @@
+{
+	"results": [
+		{
+			"id": 204027,
+			"title": "Samisk historia med Ailo",
+			"main_title": null,
+			"series_title": null,
+			"international_title": null,
+			"description": "Ailo är 17 år, född i Norge och uppvuxen i Sverige. Själv beskriver sig Ailo som en same i Sápmi. Den samiska identiteten har alltid funnits där för honom, liksom språket och traditionerna. Ailo är programledaren och han inramar berättelser om hur historien har lämnat spår i andra unga samers liv: Sara-Elvira och hennes familj har blivit påverkad av tvångsförflyttningar. För renskötaren Helena pågår kolonisationen fortfarande och hon blir påmind om det i sin vardag. Lars Levi gick på nomadskolan som barn och detta har präglat hans liv.",
+			"episode_number": null,
+			"number_of_episodes": null,
+			"duration": 1149,
+			"product_type": "program",
+			"media_type": "single",
+			"production_year": 2017,
+			"format": "video",
+			"language_level": [],
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"primary4-6",
+				"children"
+			],
+			"typical_age_range_translations": [
+				"Grundskola 4-6"
+			],
+			"has_teacher_resource": false,
+			"published_at": "2018-02-06T05:00:00.000Z",
+			"subject_tree": [
+				[
+					"Historia",
+					"Efter ca 1900"
+				],
+				[
+					"Historia",
+					"Nya tiden - Sverige och Norden"
+				],
+				[
+					"Samhällskunskap",
+					"Individer och gemenskaper",
+					"Nationella minoriteter"
+				],
+				[
+					"Samhällskunskap",
+					"Individer och gemenskaper",
+					"Rasism och främlingsfientlighet"
+				]
+			],
+			"keywords": [
+				"Historia",
+				"Kolonisation",
+				"Nomadskolor",
+				"Samer",
+				"Sverige",
+				"Sápmi"
+			],
+			"participants": [],
+			"participant_fullnames": [],
+			"main_genre": "Reportage",
+			"play_categories": [
+				"Kultur och historia"
+			],
+			"categories": [
+				"Samhälle / Nationella minoriteter"
+			],
+			"modified": "2022-03-01T18:54:29.000Z",
+			"subtitle_languages": [
+				"swe"
+			],
+			"subtitle_languages_translations": [
+				"Svenska"
+			],
+			"usp": "Om hur händelser i historien påverkar unga samer i dag.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/204027/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/204027/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/204027/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/204027/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/204027/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/204027/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/204027/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/204027/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/204027/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/204027/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/204027/images/1_sq.jpg"
+			},
+			"age_ranges": [
+				{
+					"from": 10,
+					"to": 12
+				}
+			],
+			"series_id": null,
+			"is_single": true,
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2018-02-06T05:00:00.000Z",
+					"end_time": "2022-06-30T21:59:59.000Z"
+				},
+				"urskola": {
+					"start_time": "2018-02-06T05:00:00.000Z",
+					"end_time": "2022-06-30T21:59:59.000Z"
+				},
+				"urplay": {
+					"start_time": "2019-09-26T22:00:00.000Z",
+					"end_time": "2022-06-30T21:59:59.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urskola",
+				"urplay"
+			],
+			"broadcasts": [
+				{
+					"start_time": "2018-03-11T16:00:00.000Z",
+					"end_time": "2018-03-11T16:19:09.000Z",
+					"platform": "svt2"
+				},
+				{
+					"start_time": "2018-03-12T15:15:00.000Z",
+					"end_time": "2018-03-12T15:34:09.000Z",
+					"platform": "svt2"
+				},
+				{
+					"start_time": "2018-03-15T17:55:00.000Z",
+					"end_time": "2018-03-15T18:14:09.000Z",
+					"platform": "svtb"
+				},
+				{
+					"start_time": "2018-08-23T16:45:00.000Z",
+					"end_time": "2018-08-23T17:04:09.000Z",
+					"platform": "svtb"
+				},
+				{
+					"start_time": "2020-01-03T13:15:00.000Z",
+					"end_time": "2020-01-03T13:34:09.000Z",
+					"platform": "svtb"
+				},
+				{
+					"start_time": "2020-04-21T17:25:00.000Z",
+					"end_time": "2020-04-21T17:44:09.000Z",
+					"platform": "svtb"
+				},
+				{
+					"start_time": "2022-02-08T18:25:00.000Z",
+					"end_time": "2022-02-08T18:44:09.000Z",
+					"platform": "svtb"
+				}
+			],
+			"pod_info": {
+				"is_downloadable": false,
+				"file": null,
+				"filename": "samisk-historia-med-ailo",
+				"format": null
+			},
+			"files": [],
+			"streaming_info": {
+				"swe_complete": {
+					"label": "Svenska",
+					"default": true,
+					"sd": {
+						"location": "urplay/_definst_/mp4:204000-204999/204027-31.mp4/",
+						"scope": "complete",
+						"language": "swe"
+					},
+					"hd": {
+						"location": "urplay/_definst_/mp4:204000-204999/204027-34.mp4/",
+						"scope": "complete",
+						"language": "swe"
+					},
+					"tt": {
+						"location": "https://undertexter.ur.se/204000-204999/204027-21.tt",
+						"language": "swe",
+						"scope": "complete"
+					},
+					"vtt": {
+						"location": "https://undertexter.ur.se/204000-204999/204027-21.vtt",
+						"language": "swe",
+						"scope": "complete"
+					}
+				},
+				"swe_partial": {
+					"label": "Svenska (Översättning)",
+					"default": false,
+					"sd": {
+						"location": "urplay/_definst_/mp4:204000-204999/204027-32.mp4/",
+						"scope": "partial",
+						"language": "swe"
+					},
+					"hd": {
+						"location": "urplay/_definst_/mp4:204000-204999/204027-33.mp4/",
+						"scope": "partial",
+						"language": "swe"
+					},
+					"tt": {
+						"location": "https://undertexter.ur.se/204000-204999/204027-22.tt",
+						"language": "swe",
+						"scope": "partial"
+					},
+					"vtt": {
+						"location": "https://undertexter.ur.se/204000-204999/204027-22.vtt",
+						"language": "swe",
+						"scope": "partial"
+					}
+				},
+				"raw": {
+					"label": "",
+					"default": false,
+					"sd": {
+						"location": "urplay/_definst_/mp4:204000-204999/204027-14.mp4/",
+						"scope": null,
+						"language": null
+					},
+					"hd": {
+						"location": "urplay/_definst_/mp4:204000-204999/204027-7.mp4/",
+						"scope": null,
+						"language": null
+					}
+				}
+			},
+			"embed_streaming_info": null,
+			"seo_title": null,
+			"seo_description": null,
+			"only_in_sweden": false,
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 204027,
+					"version": "ORIGINAL",
+					"title": "Samisk historia med Ailo",
+					"series_title": null
+				},
+				{
+					"id": 204529,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Samisk historia med Ailo - syntolkat",
+					"series_title": null
+				},
+				{
+					"id": 205034,
+					"version": "SIGN_LANGUAGE",
+					"title": "Samisk historia med Ailo - teckenspråkstolkat",
+					"series_title": null
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"relations": null,
+			"variant": null,
+			"has_interactive_teacher_support": false
+		},
+		{
+			"id": 193800,
+			"title": "My life my lesson",
+			"main_title": null,
+			"series_title": null,
+			"international_title": null,
+			"description": "Felicia förlorade tidigt sin biologiska pappa och växte upp tillsammans med en styvpappa som misshandlade mamman. Efter tio år separerade Felicias mamma från styvpappan. Felicia vill leva ett vanligt tonårsliv, men hennes situation och upplevelser hindrar henne. Situationen förvärras när pappan hotar mamman till livet och familjen tvingas leva i ovisshet tills de får ett skyddat boende. Hoten leder till rättegång där Felicia måste vittna, och frågan är hur hon ska orka. Under två år får vi följa Felicias liv där konsekvenserna för barn som upplever våld i nära relationer blir tydliga.",
+			"episode_number": null,
+			"number_of_episodes": null,
+			"duration": 3418,
+			"product_type": "program",
+			"media_type": "single",
+			"production_year": 2016,
+			"format": "video",
+			"language_level": [],
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"schoolvux",
+				"secondary",
+				"adults"
+			],
+			"typical_age_range_translations": [
+				"Allmänbildande",
+				"Gymnasieskola"
+			],
+			"has_teacher_resource": true,
+			"published_at": "2016-03-15T23:00:00.000Z",
+			"subject_tree": [
+				[
+					"Samhällskunskap",
+					"Individer och gemenskaper",
+					"Familj och samlevnad"
+				],
+				[
+					"Samhällskunskap",
+					"Lag och rätt"
+				]
+			],
+			"keywords": [
+				"Barn till misshandlade kvinnor",
+				"Barn- och ungdomsvård",
+				"Depression hos ungdomar",
+				"Medicin",
+				"Misshandel",
+				"Samhällsmedicin",
+				"Samhällsvetenskap",
+				"Självskadebeteende",
+				"Social omsorg",
+				"Sociala frågor",
+				"Socialmedicin",
+				"Vanvård",
+				"Våld i familjen"
+			],
+			"participants": [
+				{
+					"firstname": "Åsa",
+					"lastname": "Ekman",
+					"role": "Regissör",
+					"profession": null
+				}
+			],
+			"participant_fullnames": [
+				"Åsa Ekman"
+			],
+			"main_genre": "Dokumentärfilm",
+			"play_categories": [
+				"Dokumentärfilmer",
+				"Samhälle"
+			],
+			"categories": [
+				"Samhälle / Lag & rätt",
+				"Samhälle"
+			],
+			"modified": "2022-03-23T16:01:04.000Z",
+			"subtitle_languages": [
+				"swe"
+			],
+			"subtitle_languages_translations": [
+				"Svenska"
+			],
+			"usp": "Om 16-åriga Felicias kamp för ett bättre liv.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/193800/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/193800/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/193800/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/193800/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/193800/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/193800/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/193800/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/193800/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/193800/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/193800/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/193800/images/1_sq.jpg"
+			},
+			"age_ranges": [
+				{
+					"from": 15,
+					"to": null
+				},
+				{
+					"from": 15,
+					"to": null
+				}
+			],
+			"series_id": null,
+			"is_single": true,
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2016-03-15T23:00:00.000Z",
+					"end_time": "2022-06-30T21:59:59.000Z"
+				},
+				"urskola": {
+					"start_time": "2016-03-16T22:11:58.000Z",
+					"end_time": "2022-06-30T21:59:59.000Z"
+				},
+				"urplay": {
+					"start_time": "2016-03-15T23:00:00.000Z",
+					"end_time": "2022-06-30T21:59:59.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urskola",
+				"urplay"
+			],
+			"broadcasts": [
+				{
+					"start_time": "2016-03-16T21:15:00.000Z",
+					"end_time": "2016-03-16T22:11:58.000Z",
+					"platform": "svt2"
+				},
+				{
+					"start_time": "2016-03-21T01:05:00.000Z",
+					"end_time": "2016-03-21T02:01:58.000Z",
+					"platform": "svt2"
+				},
+				{
+					"start_time": "2016-08-31T21:15:00.000Z",
+					"end_time": "2016-08-31T22:11:58.000Z",
+					"platform": "svt2"
+				},
+				{
+					"start_time": "2016-09-06T00:05:00.000Z",
+					"end_time": "2016-09-06T01:01:58.000Z",
+					"platform": "svt2"
+				},
+				{
+					"start_time": "2016-10-19T19:55:00.000Z",
+					"end_time": "2016-10-19T20:51:58.000Z",
+					"platform": "k"
+				},
+				{
+					"start_time": "2016-10-23T21:05:00.000Z",
+					"end_time": "2016-10-23T22:01:58.000Z",
+					"platform": "k"
+				},
+				{
+					"start_time": "2017-03-07T21:45:00.000Z",
+					"end_time": "2017-03-07T22:41:58.000Z",
+					"platform": "svt2"
+				},
+				{
+					"start_time": "2017-03-14T01:05:00.000Z",
+					"end_time": "2017-03-14T02:01:58.000Z",
+					"platform": "svt2"
+				},
+				{
+					"start_time": "2018-05-14T20:50:00.000Z",
+					"end_time": "2018-05-14T21:46:58.000Z",
+					"platform": "svt2"
+				},
+				{
+					"start_time": "2018-05-20T22:45:00.000Z",
+					"end_time": "2018-05-20T23:41:58.000Z",
+					"platform": "svt2"
+				},
+				{
+					"start_time": "2019-01-06T17:10:00.000Z",
+					"end_time": "2019-01-06T18:06:58.000Z",
+					"platform": "k"
+				},
+				{
+					"start_time": "2022-04-18T19:00:00.000Z",
+					"end_time": "2022-04-18T19:56:58.000Z",
+					"platform": "k"
+				},
+				{
+					"start_time": "2022-04-20T15:25:00.000Z",
+					"end_time": "2022-04-20T16:21:58.000Z",
+					"platform": "k"
+				},
+				{
+					"start_time": "2022-04-23T22:25:00.000Z",
+					"end_time": "2022-04-23T23:21:58.000Z",
+					"platform": "k"
+				}
+			],
+			"pod_info": {
+				"is_downloadable": false,
+				"file": null,
+				"filename": "my-life-my-lesson",
+				"format": null
+			},
+			"files": [
+				{
+					"title": "My life my lesson ",
+					"description": null,
+					"location": "https://www.ur.se/mb/pdf/handledningar/198000-198999/198426-2_My_life_my_lesson.pdf",
+					"file_type": "pdf",
+					"type": "teacherguide"
+				}
+			],
+			"streaming_info": {
+				"swe_complete": {
+					"label": "Svenska",
+					"default": true,
+					"sd": {
+						"location": "urplay/_definst_/mp4:se/193000-193999/193800-22.mp4/",
+						"scope": "complete",
+						"language": "swe"
+					},
+					"hd": {
+						"location": "urplay/_definst_/mp4:se/193000-193999/193800-23.mp4/",
+						"scope": "complete",
+						"language": "swe"
+					},
+					"tt": {
+						"location": "https://undertexter.ur.se/193000-193999/193800-17.tt",
+						"language": "swe",
+						"scope": "complete"
+					},
+					"vtt": {
+						"location": "https://undertexter.ur.se/193000-193999/193800-17.vtt",
+						"language": "swe",
+						"scope": "complete"
+					}
+				},
+				"raw": {
+					"label": "",
+					"default": false,
+					"sd": {
+						"location": "urplay/_definst_/mp4:se/193000-193999/193800-13.mp4/",
+						"scope": null,
+						"language": null
+					},
+					"hd": {
+						"location": "urplay/_definst_/mp4:se/193000-193999/193800-12.mp4/",
+						"scope": null,
+						"language": null
+					}
+				}
+			},
+			"embed_streaming_info": null,
+			"seo_title": null,
+			"seo_description": null,
+			"only_in_sweden": true,
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 193800,
+					"version": "ORIGINAL",
+					"title": "My life my lesson",
+					"series_title": null
+				},
+				{
+					"id": 203349,
+					"version": "SIGN_LANGUAGE",
+					"title": "My life my lesson - teckenspråkstolkat",
+					"series_title": null
+				},
+				{
+					"id": 203351,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "My life my lesson - syntolkat",
+					"series_title": null
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"relations": null,
+			"variant": null,
+			"has_interactive_teacher_support": false
+		},
+		{
+			"id": 225697,
+			"title": "Grejen med demokrati",
+			"series_title": "Grejen med demokrati",
+			"description": "Vad skiljer en demokrati från en diktatur? Och varför är begrepp som yttrandefrihet, jämställdhet och tryckfrihet så viktiga? Det undrar 9-åriga Mina. Den ytliga influeraren \"Demokratiälskaren\" försöker övertyga henne om hur fantastiskt det är med demokrati - men är mest ute efter att få fler följare och likes. Mina ber istället demokratiexperten Jenny Madestam att reda ut begreppen och förklara vad ett samhälle vinner på att vara en demokrati. Varje avsnitt avslutas med ett klurigt demokratiskt dilemma att diskutera.",
+			"structure": "Collection",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"primary0-3",
+				"children"
+			],
+			"typical_age_range_translations": [
+				"Grundskola F-3"
+			],
+			"main_genre": "Lär-mer-program",
+			"categories": [
+				"Samhälle / Demokrati & mänskliga rättigheter"
+			],
+			"play_categories": [],
+			"modified": "2022-03-07T10:01:06.000Z",
+			"usp": "9-åriga Mina lär sig vad demokrati innebär och nyttan med den.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/225697/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/225697/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/225697/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/225697/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/225697/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/225697/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/225697/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/225697/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/225697/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/225697/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/225697/images/1_sq.jpg"
+			},
+			"label": null,
+			"age_ranges": [
+				{
+					"from": 6,
+					"to": 9
+				}
+			],
+			"program_count": 10,
+			"super_series_id": null,
+			"streamable_program_ids": [
+				225695,
+				225699,
+				225693,
+				225694,
+				225698,
+				225700,
+				225692,
+				225701,
+				225696,
+				225691
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2022-03-21T01:00:00.000Z",
+					"end_time": "2026-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2022-03-21T01:00:00.000Z",
+					"end_time": "2026-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "Grejen med demokrati | Vad är demokrati? | För åk F-3",
+			"seo_description": "Lär dig vad demokrati innebär och om dess fördelar! Engagerande serie för lågstadiet som ger kunskap om demokratiska värden, processer och arbetssätt. Progammen utvecklar även elevernas kännedom om mänskliga rättigheter.",
+			"subject_tree": [
+				[
+					"Samhällskunskap",
+					"Barns rättigheter"
+				],
+				[
+					"Samhällskunskap",
+					"Demokratiska fri- och rättigheter"
+				],
+				[
+					"Samhällskunskap",
+					"Mänskliga rättigheter"
+				],
+				[
+					"Samhällskunskap",
+					"Politik och statskunskap",
+					"Demokrati och beslutsfattande"
+				]
+			],
+			"educational_description": "Syftet är ge förståelse för vad demokrati innebär och nyttan med den. Serien ger kunskap om de värden som utmärker ett demokratiskt samhälle, samt om demokratiska processer och arbetssätt. Eleverna får förståelse för vad det innebär att vara en aktiv och ansvarstagande medborgare och utvecklar även sin kännedom om mänskliga rättigheter.",
+			"has_teacher_resource": false,
+			"published_at": "2021-12-06T18:01:52.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Demokrati",
+				"Medborgerliga fri- och rättigheter",
+				"Mänskliga rättigheter"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 225697,
+					"version": "ORIGINAL",
+					"title": "Grejen med demokrati",
+					"series_title": "Grejen med demokrati"
+				},
+				{
+					"id": 226244,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Grejen med demokrati - syntolkat",
+					"series_title": "Grejen med demokrati - syntolkat"
+				},
+				{
+					"id": 226972,
+					"version": "SIGN_LANGUAGE",
+					"title": "Grejen med demokrati - teckenspråkstolkat",
+					"series_title": "Grejen med demokrati - teckenspråkstolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": null,
+			"variant": null,
+			"season_labels": [],
+			"has_interactive_teacher_support": true
+		},
+		{
+			"id": 225263,
+			"title": "Seniorsurfarskolan",
+			"series_title": "Seniorsurfarskolan",
+			"description": "Säsong 3. Kattis Ahlström går igenom och visar praktiskt de digitala tjänster och begrepp som behandlas i Seniorsurfarna. Tillsammans med årets elever, Michael Segerström, Viveca Lärn, Ann Westin och Hasse \"Kvinnaböske\" Andersson, får du fördjupning och konkreta tips på hur du kan ta dig fram i teknikdjungeln. Dessutom dyker olika gästexperter upp och delar med sig av sin kunskap.",
+			"structure": "Linear",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"folkhighschool",
+				"adults"
+			],
+			"typical_age_range_translations": [
+				"Folkhögskola / Studieförbund"
+			],
+			"main_genre": "Lär-mer-program",
+			"categories": [
+				"Utbildning & media / Media & kommunikation"
+			],
+			"play_categories": [],
+			"modified": "2022-02-01T15:01:54.000Z",
+			"usp": "Praktiska tips som möjliggör digital delaktighet. Säsong 3.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/225263/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/225263/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/225263/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/225263/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/225263/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/225263/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/225263/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/225263/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/225263/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/225263/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/225263/images/1_sq.jpg"
+			},
+			"label": "Säsong 3",
+			"age_ranges": [
+				{
+					"from": 15,
+					"to": null
+				}
+			],
+			"program_count": 6,
+			"super_series_id": 221218,
+			"streamable_program_ids": [
+				225244,
+				225247,
+				225250,
+				225254,
+				225258,
+				225264
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2022-01-31T01:00:00.000Z",
+					"end_time": "2026-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2022-01-31T01:00:00.000Z",
+					"end_time": "2026-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "Seniorsurfarskolan säsong 3 | Se alla avsnitt här!",
+			"seo_description": "I tredje säsongen av Seniorsurfarskolan visar Kattis Ahlström hur digital kompetens kan göra nytta i vardagen.",
+			"subject_tree": [
+				[
+					"Information och media",
+					"Internet och digitala medier"
+				],
+				[
+					"Pedagogiska frågor",
+					"IT, medier och digital kompetens"
+				],
+				[
+					"Samhällskunskap",
+					"Individer och gemenskaper",
+					"Identitet och livsstil",
+					"Vuxna och äldre"
+				]
+			],
+			"educational_description": "Syftet med den här serien är att förmedla grundläggande digitala färdigheter och att ge värdefulla praktiska tips. Insatser som möjliggör digital delaktighet.",
+			"has_teacher_resource": false,
+			"published_at": "2021-11-18T19:01:48.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Databehandling",
+				"Datasystem",
+				"Datorer",
+				"Digital kompetens",
+				"Digitala klyftan",
+				"IT",
+				"Informationsteknik",
+				"Mobiltelefoner",
+				"Smartphones",
+				"Teknik",
+				"Äldre och internet"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 225263,
+					"version": "ORIGINAL",
+					"title": "Seniorsurfarskolan",
+					"series_title": "Seniorsurfarskolan"
+				},
+				{
+					"id": 225947,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Seniorsurfarskolan - syntolkat",
+					"series_title": "Seniorsurfarskolan - syntolkat"
+				},
+				{
+					"id": 226627,
+					"version": "SIGN_LANGUAGE",
+					"title": "Seniorsurfarskolan - teckenspråkstolkat",
+					"series_title": "Seniorsurfarskolan - teckenspråkstolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": {
+				"complementary": [
+					{
+						"id": 225137,
+						"label": "komplement",
+						"title": "Seniorsurfarna",
+						"description": "Säsong 3. Nu lämnar Seniorsurfarna livet på landet och flyttar till stan. Årets klass består av Ann Westin, Michael Segerström, Viveca Lärn och Hasse \"Kvinnaböske\" Andersson. Kattis Ahlström är vägvisare som vanligt, men hon får också hjälp av gästexperter, som influeraren Christina Schollin och politikerprofilerna Ulf Adelsohn och Jan Eliasson. Momenten den här gången är huvudsakligen inriktade på digital delaktighet: hur kan vi göra våra röster hörda online? Och hur kan vi använda internet för att stärka demokratin?",
+						"product_type": "series",
+						"usp": "Hur blir vi digitalt delaktiga och gör våra röster hörda? Säsong 3.",
+						"image": {
+							"1280x720": "https://assets.ur.se/id/225137/images/1_hd.jpg",
+							"960x540": "https://assets.ur.se/id/225137/images/1_xl.jpg",
+							"640x360": "https://assets.ur.se/id/225137/images/1_l.jpg",
+							"480x270": "https://assets.ur.se/id/225137/images/1_ml.jpg",
+							"320x180": "https://assets.ur.se/id/225137/images/1.jpg",
+							"240x135": "https://assets.ur.se/id/225137/images/1_sm.jpg",
+							"160x90": "https://assets.ur.se/id/225137/images/1_s.jpg",
+							"128x72": "https://assets.ur.se/id/225137/images/1_t.jpg",
+							"64x36": "https://assets.ur.se/id/225137/images/1_u.jpg",
+							"360x360": "https://assets.ur.se/id/225137/images/1_sql.jpg",
+							"75x75": "https://assets.ur.se/id/225137/images/1_sq.jpg"
+						},
+						"accessible_platforms": {
+							"uraccess": {
+								"start_time": "2022-01-31T01:00:00.000Z",
+								"end_time": "2026-06-30T21:59:00.000Z"
+							},
+							"urplay": {
+								"start_time": "2022-01-31T01:00:00.000Z",
+								"end_time": "2026-06-30T21:59:00.000Z"
+							}
+						},
+						"format": "video",
+						"is_sign_language_interpreted": false,
+						"is_audio_described": false
+					}
+				]
+			},
+			"variant": null,
+			"season_labels": [
+				{
+					"id": 215217,
+					"title": "Seniorsurfarskolan",
+					"label": "Säsong 1"
+				},
+				{
+					"id": 220652,
+					"title": "Seniorsurfarskolan",
+					"label": "Säsong 2"
+				},
+				{
+					"id": 225263,
+					"title": "Seniorsurfarskolan",
+					"label": "Säsong 3"
+				}
+			],
+			"has_interactive_teacher_support": true
+		},
+		{
+			"id": 225137,
+			"title": "Seniorsurfarna",
+			"series_title": "Seniorsurfarna",
+			"description": "Säsong 3. Nu lämnar Seniorsurfarna livet på landet och flyttar till stan. Årets klass består av Ann Westin, Michael Segerström, Viveca Lärn och Hasse \"Kvinnaböske\" Andersson. Kattis Ahlström är vägvisare som vanligt, men hon får också hjälp av gästexperter, som influeraren Christina Schollin och politikerprofilerna Ulf Adelsohn och Jan Eliasson. Momenten den här gången är huvudsakligen inriktade på digital delaktighet: hur kan vi göra våra röster hörda online? Och hur kan vi använda internet för att stärka demokratin?",
+			"structure": "Linear",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"folkhighschool",
+				"adults"
+			],
+			"typical_age_range_translations": [
+				"Folkhögskola / Studieförbund"
+			],
+			"main_genre": "Reality",
+			"categories": [
+				"Utbildning & media / Media & kommunikation"
+			],
+			"play_categories": [],
+			"modified": "2022-01-18T13:37:47.000Z",
+			"usp": "Hur blir vi digitalt delaktiga och gör våra röster hörda? Säsong 3.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/225137/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/225137/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/225137/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/225137/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/225137/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/225137/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/225137/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/225137/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/225137/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/225137/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/225137/images/1_sq.jpg"
+			},
+			"label": "Säsong 3",
+			"age_ranges": [
+				{
+					"from": 15,
+					"to": null
+				}
+			],
+			"program_count": 6,
+			"super_series_id": 220870,
+			"streamable_program_ids": [
+				225169,
+				225193,
+				225177,
+				225162,
+				225181,
+				225134
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2022-01-31T01:00:00.000Z",
+					"end_time": "2026-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2022-01-31T01:00:00.000Z",
+					"end_time": "2026-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "Seniorsurfarna | Säsong 3 | Se hela serien här!",
+			"seo_description": "Seniorsurfarna säsong 3 med Kattis Ahlström: Ann Westin, Michael Segerström, Viveca Lärn och Hasse \"Kvinnaböske\" Andersson. Tema: digital delaktighet. Tv-serie från UR.",
+			"subject_tree": [
+				[
+					"Information och media",
+					"Informationssökning och källkritik"
+				],
+				[
+					"Information och media",
+					"Internet och digitala medier"
+				],
+				[
+					"Samhällskunskap",
+					"Individer och gemenskaper",
+					"Identitet och livsstil",
+					"Vuxna och äldre"
+				]
+			],
+			"educational_description": "Syftet är, att på ett underhållande sätt, visa hur digitala kunskaper kan göra nytta i vardagen, hur man blir bättre på källkritik och på att upptäcka och använda de tekniska hjälpmedel som finns. Insatser som tillsammans möjliggör en digital delaktighet.",
+			"has_teacher_resource": false,
+			"published_at": "2021-11-17T10:01:03.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Databehandling",
+				"Datasystem",
+				"Datorer",
+				"Demokrati",
+				"Digital kompetens",
+				"Digitala klyftan",
+				"IT",
+				"Informationsteknik",
+				"Källkritik",
+				"Mobiltelefoner",
+				"Smartphones",
+				"Surfplattor",
+				"Teknik",
+				"Äldre och internet"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 225137,
+					"version": "ORIGINAL",
+					"title": "Seniorsurfarna",
+					"series_title": "Seniorsurfarna"
+				},
+				{
+					"id": 225138,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Seniorsurfarna - syntolkat",
+					"series_title": "Seniorsurfarna - syntolkat"
+				},
+				{
+					"id": 225147,
+					"version": "SIGN_LANGUAGE",
+					"title": "Seniorsurfarna - teckenspråkstolkat",
+					"series_title": "Seniorsurfarna - teckenspråkstolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": {
+				"complementary": [
+					{
+						"id": 225263,
+						"label": "komplement",
+						"title": "Seniorsurfarskolan",
+						"description": "Säsong 3. Kattis Ahlström går igenom och visar praktiskt de digitala tjänster och begrepp som behandlas i Seniorsurfarna. Tillsammans med årets elever, Michael Segerström, Viveca Lärn, Ann Westin och Hasse \"Kvinnaböske\" Andersson, får du fördjupning och konkreta tips på hur du kan ta dig fram i teknikdjungeln. Dessutom dyker olika gästexperter upp och delar med sig av sin kunskap.",
+						"product_type": "series",
+						"usp": "Praktiska tips som möjliggör digital delaktighet. Säsong 3.",
+						"image": {
+							"1280x720": "https://assets.ur.se/id/225263/images/1_hd.jpg",
+							"960x540": "https://assets.ur.se/id/225263/images/1_xl.jpg",
+							"640x360": "https://assets.ur.se/id/225263/images/1_l.jpg",
+							"480x270": "https://assets.ur.se/id/225263/images/1_ml.jpg",
+							"320x180": "https://assets.ur.se/id/225263/images/1.jpg",
+							"240x135": "https://assets.ur.se/id/225263/images/1_sm.jpg",
+							"160x90": "https://assets.ur.se/id/225263/images/1_s.jpg",
+							"128x72": "https://assets.ur.se/id/225263/images/1_t.jpg",
+							"64x36": "https://assets.ur.se/id/225263/images/1_u.jpg",
+							"360x360": "https://assets.ur.se/id/225263/images/1_sql.jpg",
+							"75x75": "https://assets.ur.se/id/225263/images/1_sq.jpg"
+						},
+						"accessible_platforms": {
+							"uraccess": {
+								"start_time": "2022-01-31T01:00:00.000Z",
+								"end_time": "2026-06-30T21:59:00.000Z"
+							},
+							"urplay": {
+								"start_time": "2022-01-31T01:00:00.000Z",
+								"end_time": "2026-06-30T21:59:00.000Z"
+							}
+						},
+						"format": "video",
+						"is_sign_language_interpreted": false,
+						"is_audio_described": false
+					}
+				]
+			},
+			"variant": null,
+			"season_labels": [
+				{
+					"id": 214200,
+					"title": "Seniorsurfarna",
+					"label": "Säsong 1"
+				},
+				{
+					"id": 219710,
+					"title": "Seniorsurfarna",
+					"label": "Säsong 2"
+				},
+				{
+					"id": 225137,
+					"title": "Seniorsurfarna",
+					"label": "Säsong 3"
+				}
+			],
+			"has_interactive_teacher_support": true
+		},
+		{
+			"id": 225012,
+			"title": "Prylberget",
+			"series_title": "Prylberget",
+			"description": "Det har aldrig varit billigare att köpa kläder, mat och hemelektronik. Vi handlar oss ur finanskriser och skilsmässor. Vi handlar oss genom dagarna. Men varför gör vi det? Följ komikern Robin Paulssons resa mot att bli en mer hållbar konsument. Till sin hjälp har han antropologen Katarina Graffman. Tillsammans besöker de olika familjer och tar reda på hur vi svenskar konsumerar, vad vi tror är bra för miljön och vilka historier som döljer sig bakom våra vanliga vardagsprylar.",
+			"structure": "Collection",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"schoolvux",
+				"adults"
+			],
+			"typical_age_range_translations": [
+				"Allmänbildande"
+			],
+			"main_genre": "Reality",
+			"categories": [
+				"Natur & resor / Miljö & klimat",
+				"Samhälle"
+			],
+			"play_categories": [],
+			"modified": "2022-02-24T16:01:45.000Z",
+			"usp": "Öka din kunskap och bli en medveten konsument som gör hållbara val.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/225012/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/225012/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/225012/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/225012/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/225012/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/225012/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/225012/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/225012/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/225012/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/225012/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/225012/images/1_sq.jpg"
+			},
+			"label": null,
+			"age_ranges": [
+				{
+					"from": 15,
+					"to": null
+				}
+			],
+			"program_count": 6,
+			"super_series_id": null,
+			"streamable_program_ids": [
+				225010,
+				225007,
+				225013,
+				225005,
+				225018,
+				225015
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2022-03-03T01:00:00.000Z",
+					"end_time": "2026-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2022-03-03T01:00:00.000Z",
+					"end_time": "2026-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "Prylberget | Se hela serien om vårt konsumtionssamhälle.",
+			"seo_description": "Serie från UR i 6 delar om konsumtion, köphets och shopping. Följ komikern Robin Paulsson och antropologen Katarina Graffman på en avslöjande resa.",
+			"subject_tree": [
+				[
+					"Hem- och konsumentkunskap",
+					"Ekonomi och konsumtion"
+				],
+				[
+					"Hem- och konsumentkunskap",
+					"Hushåll och livsstil"
+				],
+				[
+					"Miljö"
+				]
+			],
+			"educational_description": "Syftet är att vi ska börja reflektera över vårt eget beteende: varför konsumerar vi som vi gör? Vad är det som påverkar våra köp? Och hur kan vi göra mer hållbara val?",
+			"has_teacher_resource": false,
+			"published_at": "2021-11-10T16:01:36.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Ekonomi",
+				"Ekonomiska förhållanden",
+				"Finansväsen",
+				"Hållbar livsstil",
+				"Hållbar utveckling",
+				"Konsumtion",
+				"Konsumtionsvanor",
+				"Köpvanor",
+				"Marknadsföring",
+				"Miljöfrågor",
+				"Nationalekonomi",
+				"Naturvetenskap"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 225012,
+					"version": "ORIGINAL",
+					"title": "Prylberget",
+					"series_title": "Prylberget"
+				},
+				{
+					"id": 225179,
+					"version": "SIGN_LANGUAGE",
+					"title": "Prylberget - teckenspråkstolkat",
+					"series_title": "Prylberget - teckenspråkstolkat"
+				},
+				{
+					"id": 225151,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Prylberget - syntolkat",
+					"series_title": "Prylberget - syntolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": {
+				"complementary": [
+					{
+						"id": 225966,
+						"label": "komplement",
+						"title": "Prylberget diskuterar",
+						"description": "Hur kan vi konsumera mer hållbart? Vad behöver vi tänka på och reflektera kring för att ändra vårt beteende? Programledare Robin Paulsson resonerar med antropolog Katarina Graffman och utmanar oss att börja ändra vårt beteende och göra mer hållbara val i vardagen. Varje episod avslutas med en direkt fråga.",
+						"product_type": "series",
+						"usp": "Hur kan vi ändra vårt beteende och göra mer hållbara val i vardagen?",
+						"image": {
+							"1280x720": "https://assets.ur.se/id/225966/images/1_hd.jpg",
+							"960x540": "https://assets.ur.se/id/225966/images/1_xl.jpg",
+							"640x360": "https://assets.ur.se/id/225966/images/1_l.jpg",
+							"480x270": "https://assets.ur.se/id/225966/images/1_ml.jpg",
+							"320x180": "https://assets.ur.se/id/225966/images/1.jpg",
+							"240x135": "https://assets.ur.se/id/225966/images/1_sm.jpg",
+							"160x90": "https://assets.ur.se/id/225966/images/1_s.jpg",
+							"128x72": "https://assets.ur.se/id/225966/images/1_t.jpg",
+							"64x36": "https://assets.ur.se/id/225966/images/1_u.jpg",
+							"360x360": "https://assets.ur.se/id/225966/images/1_sql.jpg",
+							"75x75": "https://assets.ur.se/id/225966/images/1_sq.jpg"
+						},
+						"accessible_platforms": {
+							"uraccess": {
+								"start_time": "2022-03-03T01:00:00.000Z",
+								"end_time": "2026-06-30T21:59:00.000Z"
+							},
+							"urplay": {
+								"start_time": "2022-03-03T01:00:00.000Z",
+								"end_time": "2026-06-30T21:59:00.000Z"
+							}
+						},
+						"format": "video",
+						"is_sign_language_interpreted": false,
+						"is_audio_described": false
+					}
+				]
+			},
+			"variant": null,
+			"season_labels": [],
+			"has_interactive_teacher_support": true
+		},
+		{
+			"id": 224489,
+			"title": "Sommaren före sexan",
+			"series_title": "Sommaren före sexan",
+			"description": "Det är sommarlov. Ett sommarlov som för samman tolvåringarna Alexandra, Dushan, Tindra och Edvin. Vanligtvis hänger de med helt andra kompisar. Men nu är det bara de som inte är bortresta och de fyra enas kring en hämnd mot den mytomspunne Foliemannen. Hans fönster är täckta med folie och rykten säger att han dödar katter, lägger dem i frysen och begraver dem på en djurkyrkogård i skogen.",
+			"structure": "Linear",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"primary4-6",
+				"children"
+			],
+			"typical_age_range_translations": [
+				"Grundskola 4-6"
+			],
+			"main_genre": "Drama",
+			"categories": [
+				"Drama & berättelser"
+			],
+			"play_categories": [],
+			"modified": "2022-02-21T10:54:44.000Z",
+			"usp": "En dramaserie för mellanstadiet om vänskap, mod, svek och förlåtelse. ",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/224489/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/224489/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/224489/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/224489/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/224489/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/224489/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/224489/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/224489/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/224489/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/224489/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/224489/images/1_sq.jpg"
+			},
+			"label": null,
+			"age_ranges": [
+				{
+					"from": 10,
+					"to": 12
+				}
+			],
+			"program_count": 8,
+			"super_series_id": null,
+			"streamable_program_ids": [
+				224492,
+				224486,
+				224485,
+				224493,
+				224491,
+				224490,
+				224487,
+				224488
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2022-03-17T01:00:00.000Z",
+					"end_time": "2026-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2022-03-17T01:00:00.000Z",
+					"end_time": "2026-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": null,
+			"seo_description": null,
+			"subject_tree": [
+				[
+					"Värdegrund"
+				]
+			],
+			"educational_description": null,
+			"has_teacher_resource": false,
+			"published_at": "2021-10-14T15:01:26.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Barn",
+				"Fiktiva berättelser",
+				"Mellanstadiet",
+				"Sommarlov",
+				"Vänskap"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 224489,
+					"version": "ORIGINAL",
+					"title": "Sommaren före sexan",
+					"series_title": "Sommaren före sexan"
+				},
+				{
+					"id": 224722,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Sommaren före sexan - syntolkat",
+					"series_title": "Sommaren före sexan - syntolkat"
+				},
+				{
+					"id": 225881,
+					"version": "SIGN_LANGUAGE",
+					"title": "Sommaren före sexan - teckenspråkstolkat",
+					"series_title": "Sommaren före sexan - teckenspråkstolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": null,
+			"variant": null,
+			"season_labels": [],
+			"has_interactive_teacher_support": true
+		},
+		{
+			"id": 224442,
+			"title": "Klimatkampen",
+			"series_title": "Klimatkampen",
+			"description": "Klimatförändringar och andra hot mot vår miljö påverkar oss allt mer. Men genom några enkla förändringar i våra vanor kan vi tillsammans vara med och göra skillnad. I Klimatkampen flyttar fyra aningslösa kändisar, Claes Malmberg, Arja Saijonmaa, Filip Lamprecht och Nikki Amini, in på en ekogård. Med tävlingar och utmaningar ledda av Mark Levengood och 11-åriga Ellen ska deltagarna få hjälp att tänka och göra rätt i vardagen.",
+			"structure": "Linear",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"schoolvux",
+				"adults"
+			],
+			"typical_age_range_translations": [
+				"Allmänbildande"
+			],
+			"main_genre": "Reality",
+			"categories": [
+				"Natur & resor / Miljö & klimat"
+			],
+			"play_categories": [],
+			"modified": "2022-02-04T15:01:40.000Z",
+			"usp": "Fyra kändisar utmanas i hållbar livsstil – ska de lyckas?",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/224442/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/224442/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/224442/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/224442/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/224442/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/224442/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/224442/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/224442/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/224442/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/224442/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/224442/images/1_sq.jpg"
+			},
+			"label": null,
+			"age_ranges": [
+				{
+					"from": 15,
+					"to": null
+				}
+			],
+			"program_count": 6,
+			"super_series_id": null,
+			"streamable_program_ids": [
+				224450,
+				224452,
+				224444,
+				224449,
+				224445,
+				224443
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2022-01-12T01:00:00.000Z",
+					"end_time": "2026-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2022-01-12T01:00:00.000Z",
+					"end_time": "2026-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "Se UR:s serie Klimatkampen: hur vi blir mer klimatsmarta",
+			"seo_description": "I Klimatkampen möter vi fyra kändisar som får lära sig mer om hur varje människa kan hjälpa till att rädda miljön och ta ansvar för klimatet.",
+			"subject_tree": [
+				[
+					"Miljö",
+					"Hållbar utveckling"
+				],
+				[
+					"Miljö",
+					"Klimatförändringar"
+				]
+			],
+			"educational_description": null,
+			"has_teacher_resource": true,
+			"published_at": "2021-10-14T09:01:12.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Hållbar livsstil",
+				"Hållbar utveckling",
+				"Klimat",
+				"Klimatförändringar",
+				"Miljöfrågor",
+				"Naturvetenskap"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 224442,
+					"version": "ORIGINAL",
+					"title": "Klimatkampen",
+					"series_title": "Klimatkampen"
+				},
+				{
+					"id": 224736,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Klimatkampen - syntolkat",
+					"series_title": "Klimatkampen - syntolkat"
+				},
+				{
+					"id": 225152,
+					"version": "SIGN_LANGUAGE",
+					"title": "Klimatkampen - teckenspråkstolkat",
+					"series_title": "Klimatkampen - teckenspråkstolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": {
+				"complementary": [
+					{
+						"id": 224447,
+						"label": "komplement",
+						"title": "Klimatkampen förklarar",
+						"description": "Klimatförändringarna är ett faktum och vi alla kan hjälpa till att dra vårt strå till stacken. Mark Levengood tar hjälp av klimatforskaren Johan Kuylenstierna och går igenom olika fallgropar i vårt leverne och tipsar om vad du skall tänka på.",
+						"product_type": "series",
+						"usp": "Vilka fallgropar finns och vad ska vi tänka på?",
+						"image": {
+							"1280x720": "https://assets.ur.se/id/224447/images/1_hd.jpg",
+							"960x540": "https://assets.ur.se/id/224447/images/1_xl.jpg",
+							"640x360": "https://assets.ur.se/id/224447/images/1_l.jpg",
+							"480x270": "https://assets.ur.se/id/224447/images/1_ml.jpg",
+							"320x180": "https://assets.ur.se/id/224447/images/1.jpg",
+							"240x135": "https://assets.ur.se/id/224447/images/1_sm.jpg",
+							"160x90": "https://assets.ur.se/id/224447/images/1_s.jpg",
+							"128x72": "https://assets.ur.se/id/224447/images/1_t.jpg",
+							"64x36": "https://assets.ur.se/id/224447/images/1_u.jpg",
+							"360x360": "https://assets.ur.se/id/224447/images/1_sql.jpg",
+							"75x75": "https://assets.ur.se/id/224447/images/1_sq.jpg"
+						},
+						"accessible_platforms": {
+							"uraccess": {
+								"start_time": "2022-01-12T01:00:00.000Z",
+								"end_time": "2026-06-30T21:59:00.000Z"
+							},
+							"urplay": {
+								"start_time": "2022-01-12T01:00:00.000Z",
+								"end_time": "2026-06-30T21:59:00.000Z"
+							}
+						},
+						"format": "video",
+						"is_sign_language_interpreted": false,
+						"is_audio_described": false
+					}
+				]
+			},
+			"variant": null,
+			"season_labels": [],
+			"has_interactive_teacher_support": true
+		},
+		{
+			"id": 223633,
+			"title": "Dolt under ytan",
+			"series_title": "Dolt under ytan",
+			"description": "Att vara tonårsförälder är sällan enkelt. Att vara förälder till en tonåring som dessutom mår psykiskt dåligt är ännu tuffare. Så vad gör man som förälder för att hjälpa sin tonåring? Vi får följa med sex föräldrar och deras tonåringar in i terapirummet.  Samtalen leds av en utbildad psykolog och syftar till att skapa igenkänning, ge hopp och verktyg. För att värna såväl barnens som föräldrarnas integritet gestaltas samtliga medverkande av skådespelare.  Psykologerna spelar sig själva.",
+			"structure": "Linear",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"schoolvux",
+				"adults"
+			],
+			"typical_age_range_translations": [
+				"Allmänbildande"
+			],
+			"main_genre": "Dokumentärserie",
+			"categories": [
+				"Hälsa & relationer / Psykisk ohälsa"
+			],
+			"play_categories": [],
+			"modified": "2021-10-26T14:21:59.000Z",
+			"usp": "Hur kan man som förälder hjälpa en tonåring som mår psykiskt dåligt?",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/223633/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/223633/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/223633/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/223633/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/223633/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/223633/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/223633/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/223633/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/223633/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/223633/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/223633/images/1_sq.jpg"
+			},
+			"label": null,
+			"age_ranges": [
+				{
+					"from": 15,
+					"to": null
+				}
+			],
+			"program_count": 6,
+			"super_series_id": null,
+			"streamable_program_ids": [
+				223634,
+				223629,
+				223630,
+				223632,
+				223631,
+				223628
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2021-11-11T01:00:00.000Z",
+					"end_time": "2025-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2021-11-11T01:00:00.000Z",
+					"end_time": "2025-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": null,
+			"seo_description": null,
+			"subject_tree": [
+				[
+					"Biologi",
+					"Kropp och hälsa",
+					"Sjukdomar och ohälsa",
+					"Psykisk ohälsa"
+				],
+				[
+					"Samhällskunskap",
+					"Individer och gemenskaper",
+					"Identitet och livsstil",
+					"Ungdomar"
+				]
+			],
+			"educational_description": "I syfte att ge ökad förståelse och inge hopp vill vi med programserien bidra till att ge en mer nyanserad bild av begreppet psykisk ohälsa och förklara varför läget inte är så hopplöst som det verkar.",
+			"has_teacher_resource": false,
+			"published_at": "2021-08-19T11:00:58.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Barn- och ungdomspsykiatri",
+				"Familjer",
+				"Föräldrar och barn",
+				"Psykiatri",
+				"Psykisk hälsa",
+				"Tonåringar",
+				"Ungdomar"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 223633,
+					"version": "ORIGINAL",
+					"title": "Dolt under ytan",
+					"series_title": "Dolt under ytan"
+				},
+				{
+					"id": 223740,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Dolt under ytan - syntolkat",
+					"series_title": "Dolt under ytan - syntolkat"
+				},
+				{
+					"id": 223743,
+					"version": "SIGN_LANGUAGE",
+					"title": "Dolt under ytan - teckenspråkstolkat",
+					"series_title": "Dolt under ytan - teckenspråkstolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": null,
+			"variant": null,
+			"season_labels": [],
+			"has_interactive_teacher_support": false
+		},
+		{
+			"id": 222354,
+			"title": "Dock´n´roll",
+			"series_title": "Dock´n´roll",
+			"description": "Möt Ronny Rhythm, Nelly Note och alla de andra världsberömda artisterna på Dock´n´roll studio. Alla har de haft strålande karriärer, men nu har skivbolagsdirektören Monica Anderberg tröttnat på hur det låter när de spelar sin musik. En ny låt ska spelas in - och fort ska det gå. Med hjälp av ljudteknikern Alexandra och vaktmästaren Basso ska artisterna försöka att övervinna sina musikaliska svårigheter. Ska låten bli klar i tid? Ska Ronny lära sig nya rytmer? Kan Nelly lära sig noter?",
+			"structure": "Collection",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"primary0-3",
+				"children"
+			],
+			"typical_age_range_translations": [
+				"Grundskola F-3"
+			],
+			"main_genre": "Lär-mer-program",
+			"categories": [
+				"Kultur & historia / Konst & musik"
+			],
+			"play_categories": [],
+			"modified": "2021-08-17T14:15:12.000Z",
+			"usp": "Grundläggande musikaliska begrepp gås igenom med humor och lekfullhet!",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/222354/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/222354/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/222354/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/222354/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/222354/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/222354/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/222354/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/222354/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/222354/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/222354/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/222354/images/1_sq.jpg"
+			},
+			"label": null,
+			"age_ranges": [
+				{
+					"from": 6,
+					"to": 9
+				}
+			],
+			"program_count": 10,
+			"super_series_id": null,
+			"streamable_program_ids": [
+				222352,
+				222351,
+				222356,
+				222349,
+				222357,
+				222353,
+				222358,
+				222348,
+				222355,
+				222350
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2021-08-12T00:00:00.000Z",
+					"end_time": "2025-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2021-08-12T00:00:00.000Z",
+					"end_time": "2025-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "Dock´n´roll | Grundläggande musikaliska termer och begrepp",
+			"seo_description": "Följ med till musikstudion Dock´n´roll som med humor och lekfullhet går igenom grundläggande musikaliska termer och begrepp. För barn i lågstadiet.",
+			"subject_tree": [
+				[
+					"Musik",
+					"Instrument"
+				],
+				[
+					"Musik",
+					"Musikens byggstenar"
+				],
+				[
+					"Musik",
+					"Musikskapande"
+				]
+			],
+			"educational_description": "Syftet med serien är att erbjuda en musikalisk verktygslåda för att utveckla förmågan att lyssna, sjunga, spela och skapa musik. Dock´n´roll introducerar på ett lekfullt och humoristiskt sätt grundläggande musikaliska begrepp för musikundervisningen på lågstadiet. Serien presenterar allt ifrån puls, tempo och rytm till olika instrument samt hur rösten och texten påverkar musiken.",
+			"has_teacher_resource": true,
+			"published_at": "2021-04-14T16:01:41.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Barn och musik",
+				"Musik",
+				"Musiklära"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 222354,
+					"version": "ORIGINAL",
+					"title": "Dock´n´roll",
+					"series_title": "Dock´n´roll"
+				},
+				{
+					"id": 222938,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Dock´n´roll - syntolkat",
+					"series_title": "Dock´n´roll - syntolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": null,
+			"variant": null,
+			"season_labels": [],
+			"has_interactive_teacher_support": false
+		},
+		{
+			"id": 219710,
+			"title": "Seniorsurfarna",
+			"series_title": "Seniorsurfarna",
+			"description": "Säsong 2. Idag finns möjligheter att göra ärenden, roa sig och kommunicera med nära och kära på nätet. Men många äldre upplever att det är för mycket att sätta sig in i och svårt att hänga med. Med Seniorsurfarna får du, som inte är så van, inspiration och mod att våga testa och prova. Årets seniorsurfarklass består av Siw Malmkvist, Arja Saijonmaa, Carl Jan Granqvist och Johan Rabaeus. Kattis Ahlström är vägvisare och inspiratör.",
+			"structure": "Linear",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"folkhighschool",
+				"adults"
+			],
+			"typical_age_range_translations": [
+				"Folkhögskola / Studieförbund"
+			],
+			"main_genre": "Reality",
+			"categories": [
+				"Utbildning & media / Media & kommunikation"
+			],
+			"play_categories": [],
+			"modified": "2022-01-19T09:01:22.000Z",
+			"usp": "Följ med de nya senioreleverna på digitalt träningsläger! Säsong 2.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/219710/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/219710/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/219710/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/219710/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/219710/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/219710/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/219710/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/219710/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/219710/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/219710/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/219710/images/1_sq.jpg"
+			},
+			"label": "Säsong 2",
+			"age_ranges": [
+				{
+					"from": 15,
+					"to": null
+				}
+			],
+			"program_count": 6,
+			"super_series_id": 220870,
+			"streamable_program_ids": [
+				219714,
+				219713,
+				219712,
+				219709,
+				219711,
+				219715
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2021-02-09T01:00:00.000Z",
+					"end_time": "2025-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2021-02-09T01:00:00.000Z",
+					"end_time": "2025-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "Seniorsurfarna | Säsong 2 | Se hela serien här!",
+			"seo_description": "Siw Malmkvist, Arja Saijonmaa, Carl Jan Granqvist och Johan Rabaeus drillas i digitala färdigheter. Andra säsongen av den populära tv-serien från UR som sändes i SVT första gången 2021. ",
+			"subject_tree": [
+				[
+					"Information och media",
+					"Informationssökning och källkritik"
+				],
+				[
+					"Information och media",
+					"Internet och digitala medier"
+				],
+				[
+					"Samhällskunskap",
+					"Individer och gemenskaper",
+					"Identitet och livsstil",
+					"Vuxna och äldre"
+				]
+			],
+			"educational_description": "Digital delaktighet har blivit allt viktigare eftersom tekniken kan hjälpa till att bryta ofrivillig ensamhet och isolering. För många äldre har digitala tjänster inte förenklat tillvaron, snarare tvärt om. Syftet med Seniorsurfarna och Seniorsurfarskolan är att inspirera fler att våga ge sig på ny teknik.",
+			"has_teacher_resource": true,
+			"published_at": "2020-11-05T08:01:33.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Databehandling",
+				"Datasystem",
+				"Datorer",
+				"Digital kompetens",
+				"Digitala klyftan",
+				"IT",
+				"Informationsteknik",
+				"Mobiltelefoner",
+				"Smartphones",
+				"Surfplattor",
+				"Teknik",
+				"Äldre och internet"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 219710,
+					"version": "ORIGINAL",
+					"title": "Seniorsurfarna",
+					"series_title": "Seniorsurfarna"
+				},
+				{
+					"id": 220878,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Seniorsurfarna - syntolkat",
+					"series_title": "Seniorsurfarna - syntolkat"
+				},
+				{
+					"id": 220876,
+					"version": "SIGN_LANGUAGE",
+					"title": "Seniorsurfarna- teckenspråkstolkat",
+					"series_title": "Seniorsurfarna- teckenspråkstolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": {
+				"complementary": [
+					{
+						"id": 220652,
+						"label": "komplement",
+						"title": "Seniorsurfarskolan",
+						"description": "Säsong 2. Kattis Ahlström går igenom och visar praktiskt de digitala tjänster och begrepp som behandlas i Seniorsurfarna. Tillsammans med årets elever, Siw Malmkvist, Carl Jan Granqvist, Arja Saijonmaa och Johan Rabaeus, får du både fördjupning och konkreta tips på hur du kan ta dig fram i teknikdjungeln.",
+						"product_type": "series",
+						"usp": "Konkreta tips på hur du navigerar i den digitala djungeln. Säsong 2.",
+						"image": {
+							"1280x720": "https://assets.ur.se/id/220652/images/1_hd.jpg",
+							"960x540": "https://assets.ur.se/id/220652/images/1_xl.jpg",
+							"640x360": "https://assets.ur.se/id/220652/images/1_l.jpg",
+							"480x270": "https://assets.ur.se/id/220652/images/1_ml.jpg",
+							"320x180": "https://assets.ur.se/id/220652/images/1.jpg",
+							"240x135": "https://assets.ur.se/id/220652/images/1_sm.jpg",
+							"160x90": "https://assets.ur.se/id/220652/images/1_s.jpg",
+							"128x72": "https://assets.ur.se/id/220652/images/1_t.jpg",
+							"64x36": "https://assets.ur.se/id/220652/images/1_u.jpg",
+							"360x360": "https://assets.ur.se/id/220652/images/1_sql.jpg",
+							"75x75": "https://assets.ur.se/id/220652/images/1_sq.jpg"
+						},
+						"accessible_platforms": {
+							"uraccess": {
+								"start_time": "2021-02-01T01:00:00.000Z",
+								"end_time": "2025-06-30T21:59:00.000Z"
+							},
+							"urplay": {
+								"start_time": "2021-02-01T01:00:00.000Z",
+								"end_time": "2025-06-30T21:59:00.000Z"
+							},
+							"embed": {
+								"start_time": "2021-02-01T01:00:00.000Z",
+								"end_time": "2025-06-30T21:59:00.000Z"
+							}
+						},
+						"format": "video",
+						"is_sign_language_interpreted": false,
+						"is_audio_described": false
+					}
+				]
+			},
+			"variant": null,
+			"season_labels": [
+				{
+					"id": 214200,
+					"title": "Seniorsurfarna",
+					"label": "Säsong 1"
+				},
+				{
+					"id": 219710,
+					"title": "Seniorsurfarna",
+					"label": "Säsong 2"
+				},
+				{
+					"id": 225137,
+					"title": "Seniorsurfarna",
+					"label": "Säsong 3"
+				}
+			],
+			"has_interactive_teacher_support": false
+		},
+		{
+			"id": 219388,
+			"title": "Odlingen",
+			"series_title": "Odlingen",
+			"description": "Varje vår sätter Fittja grundsärskola ihop pallkragarna på skolans innergård i Botkyrka, någon mil söder om Stockholm. Skolan driver ett odlingsprojekt och under den kommande säsongen får vi följa hela processen från förodling fram till skörd och kompostering. På vägen fördjupar vi oss i kretsloppet och olika ämnen som hör odlingen till.",
+			"structure": "Linear",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"specialschoolprimary4-6",
+				"children"
+			],
+			"typical_age_range_translations": [
+				"Grundsärskola 4-6"
+			],
+			"main_genre": "Lär-mer-program",
+			"categories": [
+				"Natur & resor / Miljö & klimat"
+			],
+			"play_categories": [],
+			"modified": "2021-06-23T11:01:04.000Z",
+			"usp": "Vi följer hela processen från förodling till skörd och kompostering.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/219388/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/219388/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/219388/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/219388/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/219388/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/219388/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/219388/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/219388/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/219388/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/219388/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/219388/images/1_sq.jpg"
+			},
+			"label": null,
+			"age_ranges": [],
+			"program_count": 2,
+			"super_series_id": null,
+			"streamable_program_ids": [
+				219387,
+				219386
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2021-01-14T01:00:00.000Z",
+					"end_time": "2024-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2021-01-14T01:00:00.000Z",
+					"end_time": "2024-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": null,
+			"seo_description": null,
+			"subject_tree": [
+				[
+					"Biologi",
+					"Djur och natur",
+					"Växter"
+				]
+			],
+			"educational_description": null,
+			"has_teacher_resource": false,
+			"published_at": "2020-10-12T10:01:06.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Frön",
+				"Grönsaker",
+				"Gödsling",
+				"Kompostering",
+				"Odling",
+				"Skörd",
+				"Trädgårdsodling",
+				"Växter"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 219388,
+					"version": "ORIGINAL",
+					"title": "Odlingen",
+					"series_title": "Odlingen"
+				},
+				{
+					"id": 221961,
+					"version": "SIGN_LANGUAGE",
+					"title": "Odlingen - teckenspråkstolkat",
+					"series_title": "Odlingen - teckenspråkstolkat"
+				},
+				{
+					"id": 223147,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Odlingen - syntolkat",
+					"series_title": "Odlingen - syntolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": null,
+			"variant": null,
+			"season_labels": [],
+			"has_interactive_teacher_support": false
+		},
+		{
+			"id": 219288,
+			"title": "Tack gud jag är homo",
+			"series_title": "Tack gud jag är homo",
+			"description": "Säsong 2. Programledarduon och bästisarna Alice och Linda är tillbaka och den här gången reder de ut alla bokstäver i hbtqia+. Vad betyder de egentligen? De möter transpersoner, homosexuella, regnbågsfamiljer och personer som på andra sätt bryter heteronormen, och slår hål på myter och föreställningar om hbtq-personer. De hjälper oss att lära oss mer om varandra och visar hur viktigt det är att vi blir lyssnade på, vågar vara oss själva, och inte minst respektera varandra.",
+			"structure": "Collection",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"secondary",
+				"primary7-9",
+				"adults"
+			],
+			"typical_age_range_translations": [
+				"Gymnasieskola",
+				"Grundskola 7-9"
+			],
+			"main_genre": "Reportage",
+			"categories": [
+				"Samhälle / Genus & hbtq"
+			],
+			"play_categories": [
+				"Samhälle"
+			],
+			"modified": "2021-02-08T13:01:40.000Z",
+			"usp": "Säsong 2. Alice och Linda är tillbaka och reder ut begreppen hbtqia+.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/219288/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/219288/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/219288/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/219288/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/219288/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/219288/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/219288/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/219288/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/219288/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/219288/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/219288/images/1_sq.jpg"
+			},
+			"label": "Säsong 2",
+			"age_ranges": [
+				{
+					"from": 15,
+					"to": null
+				},
+				{
+					"from": 15,
+					"to": null
+				}
+			],
+			"program_count": 6,
+			"super_series_id": 219935,
+			"streamable_program_ids": [
+				219289,
+				219284,
+				219286,
+				219287,
+				219285,
+				219283
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2020-11-26T01:00:00.000Z",
+					"end_time": "2024-06-30T21:59:59.000Z"
+				},
+				"urplay": {
+					"start_time": "2020-11-26T01:00:00.000Z",
+					"end_time": "2024-06-30T21:59:59.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "Tack gud jag är homo |  Vad betyder hbtqia+?",
+			"seo_description": "Streama Tack gud jag är homo och häng med när programledarduon Alice och Linda reder ut alla vad alla bokstäver i hbtqia+ betyder!",
+			"subject_tree": [
+				[
+					"Samhällskunskap",
+					"Individer och gemenskaper",
+					"Identitet och livsstil",
+					"HBTQ"
+				]
+			],
+			"educational_description": null,
+			"has_teacher_resource": true,
+			"published_at": "2020-10-06T12:01:48.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Bisexualitet",
+				"HBTQ-personer",
+				"Hbtq",
+				"Homosexualitet",
+				"Homosexuella",
+				"Lesbiska kvinnor",
+				"Samhällsvetenskap",
+				"Sexologi",
+				"Sociala frågor",
+				"Transsexualitet"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 219288,
+					"version": "ORIGINAL",
+					"title": "Tack gud jag är homo",
+					"series_title": "Tack gud jag är homo"
+				},
+				{
+					"id": 220097,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Tack gud jag är homo - syntolkat",
+					"series_title": "Tack gud jag är homo - syntolkat"
+				},
+				{
+					"id": 220732,
+					"version": "SIGN_LANGUAGE",
+					"title": "Tack gud jag är homo - teckenspråkstolkat",
+					"series_title": "Tack gud jag är homo - teckenspråkstolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": null,
+			"variant": null,
+			"season_labels": [
+				{
+					"id": 207946,
+					"title": "Tack gud jag är homo",
+					"label": "Säsong 1"
+				},
+				{
+					"id": 219288,
+					"title": "Tack gud jag är homo",
+					"label": "Säsong 2"
+				}
+			],
+			"has_interactive_teacher_support": false
+		},
+		{
+			"id": 219138,
+			"title": "Superföräldrar",
+			"series_title": "Superföräldrar",
+			"description": "En talkshow med och för föräldrar som har barn eller ungdomar med en NPF-diagnos - det vill säga en neuropsykiatrisk funktionsnedsättning som exempelvis adhd, add, eller autism. Programledaren Samantha Coard pratar om NPF-livet med föräldrar som, precis som hon själv, har barn med adhd eller autism. Lotta Borg Skoglund, överläkare i psykiatri och författare, svarar på frågor och kommer med råd kring hur föräldrarna kan hantera situationerna som uppstår.",
+			"structure": "Collection",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"schoolvux",
+				"adults"
+			],
+			"typical_age_range_translations": [
+				"Allmänbildande"
+			],
+			"main_genre": "Intervju/samtal",
+			"categories": [
+				"Samhälle / Funktionsvariationer"
+			],
+			"play_categories": [],
+			"modified": "2021-04-19T12:30:48.000Z",
+			"usp": "En serie för föräldrar med barn som har en neuropsykiatrisk diagnos.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/219138/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/219138/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/219138/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/219138/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/219138/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/219138/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/219138/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/219138/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/219138/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/219138/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/219138/images/1_sq.jpg"
+			},
+			"label": null,
+			"age_ranges": [
+				{
+					"from": 15,
+					"to": null
+				}
+			],
+			"program_count": 8,
+			"super_series_id": null,
+			"streamable_program_ids": [
+				219145,
+				219144,
+				219139,
+				219141,
+				219142,
+				219143,
+				219140,
+				219137
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2021-04-07T00:00:00.000Z",
+					"end_time": "2025-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2021-04-07T00:00:00.000Z",
+					"end_time": "2025-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "Superföräldrar | Om livet med barn som har en NPF-diagnos",
+			"seo_description": "Se Superföräldrar här! En serie för föräldrar med barn som har en neuropsykiatrisk funktionsnedsättning - exempelvis add, adhd eller autism eller OCD.",
+			"subject_tree": [
+				[
+					"Samhällskunskap",
+					"Individer och gemenskaper",
+					"Familj och samlevnad"
+				],
+				[
+					"Samhällskunskap",
+					"Individer och gemenskaper",
+					"Identitet och livsstil",
+					"Personer med funktionsnedsättning"
+				]
+			],
+			"educational_description": "Serien riktar sig främst till de som har barn eller ungdomar med en NPF-diagnos. Målet är att de ska få råd och verktyg med sig. De tittare som inte har barn med NPF-diagnos ska få bättre kunskap kring vad som kan vara svårt och hur man kan underlätta. Ledord för programserien är verktyg, igenkänning och bekräftelse.",
+			"has_teacher_resource": false,
+			"published_at": "2020-09-29T07:01:34.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Barn med adhd",
+				"Barn med autism",
+				"Barn med neuropsykiatrisk funktionsnedsättning",
+				"Familjekonflikter",
+				"Familjer",
+				"Förädrar och barn",
+				"Personer med funktionsnedsättning",
+				"Samhällsvetenskap",
+				"Sociala frågor",
+				"Vardagsliv"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 219138,
+					"version": "ORIGINAL",
+					"title": "Superföräldrar",
+					"series_title": "Superföräldrar"
+				},
+				{
+					"id": 222089,
+					"version": "SIGN_LANGUAGE",
+					"title": "Superföräldrar - teckenspråkstolkat",
+					"series_title": "Superföräldrar - teckenspråkstolkat"
+				},
+				{
+					"id": 222221,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Superföräldrar - Syntolkat",
+					"series_title": "Superföräldrar - Syntolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": null,
+			"variant": null,
+			"season_labels": [],
+			"has_interactive_teacher_support": false
+		},
+		{
+			"id": 218934,
+			"title": "Idrottens himmel och helvete",
+			"series_title": "Idrottens himmel och helvete",
+			"description": "Säsong 3. Idrottsrörelsen har över tre miljoner medlemmar. Hur vi leder och fostrar barn och unga inom den spelar roll för vårt samhälle. Serien granskar och belyser problematik som både de som idrottar och de som leder idrott ställs inför. Till serien finns också korta videos - Pratstartare om idrott - som är tänkta att användas som underlag för diskussioner.",
+			"structure": "Collection",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"folkhighschool",
+				"adults"
+			],
+			"typical_age_range_translations": [
+				"Folkhögskola / Studieförbund"
+			],
+			"main_genre": "Reportage",
+			"categories": [
+				"Hälsa & relationer / Hälsa"
+			],
+			"play_categories": [
+				"Samhälle"
+			],
+			"modified": "2021-02-01T08:00:04.000Z",
+			"usp": "Säsong 3. Hur barnen fostras inom idrottsrörelsen påverkar samhället.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/218934/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/218934/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/218934/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/218934/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/218934/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/218934/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/218934/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/218934/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/218934/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/218934/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/218934/images/1_sq.jpg"
+			},
+			"label": "Säsong 3",
+			"age_ranges": [
+				{
+					"from": 15,
+					"to": null
+				}
+			],
+			"program_count": 6,
+			"super_series_id": 187325,
+			"streamable_program_ids": [
+				218931,
+				218935,
+				218936,
+				218932,
+				218933,
+				218937
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2020-11-11T01:00:00.000Z",
+					"end_time": "2024-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2020-11-11T01:00:00.000Z",
+					"end_time": "2024-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "Idrottens himmel och helvete | Om problem inom idrotten",
+			"seo_description": "Strömmande video i 6 delar. Säsong 3 av Idrottens himmel och helvete granskar problem inom idrotten - som anorexi, jämställdhet, depression och mutor.",
+			"subject_tree": [
+				[
+					"Idrott och hälsa"
+				]
+			],
+			"educational_description": "Idrottens himmel och helvete är tänkt att användas av ledare och utbildare inom idrottsrörelsen och är gjord i dialog med Riksidrottsförbundet.",
+			"has_teacher_resource": true,
+			"published_at": "2020-09-14T13:01:39.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Barn och idrott",
+				"Idrott",
+				"Idrott och samhälle",
+				"Idrottsrörelsen",
+				"Idrottssociologi",
+				"Sport",
+				"Sverige",
+				"Ungdomsidrott"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 218934,
+					"version": "ORIGINAL",
+					"title": "Idrottens himmel och helvete",
+					"series_title": "Idrottens himmel och helvete"
+				},
+				{
+					"id": 219674,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Idrottens himmel och helvete - syntolkat",
+					"series_title": "Idrottens himmel och helvete - syntolkat"
+				},
+				{
+					"id": 219772,
+					"version": "SIGN_LANGUAGE",
+					"title": "Idrottens himmel och helvete - teckenspråkstolkat",
+					"series_title": "Idrottens himmel och helvete - teckenspråkstolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": {
+				"complementary": [
+					{
+						"id": 219203,
+						"label": "komplement",
+						"title": "Pratstartare om idrott",
+						"description": "Korta videos från Idrottens himmel och helvete med en samtalsplan för användning i idrottsutbildning.",
+						"product_type": "series",
+						"usp": "Korta videos från säsong 3 av Idrottens himmel och helvete.",
+						"image": {
+							"1280x720": "https://assets.ur.se/id/219203/images/1_hd.jpg",
+							"960x540": "https://assets.ur.se/id/219203/images/1_xl.jpg",
+							"640x360": "https://assets.ur.se/id/219203/images/1_l.jpg",
+							"480x270": "https://assets.ur.se/id/219203/images/1_ml.jpg",
+							"320x180": "https://assets.ur.se/id/219203/images/1.jpg",
+							"240x135": "https://assets.ur.se/id/219203/images/1_sm.jpg",
+							"160x90": "https://assets.ur.se/id/219203/images/1_s.jpg",
+							"128x72": "https://assets.ur.se/id/219203/images/1_t.jpg",
+							"64x36": "https://assets.ur.se/id/219203/images/1_u.jpg",
+							"360x360": "https://assets.ur.se/id/219203/images/1_sql.jpg",
+							"75x75": "https://assets.ur.se/id/219203/images/1_sq.jpg"
+						},
+						"accessible_platforms": {
+							"uraccess": {
+								"start_time": "2020-11-11T01:00:00.000Z",
+								"end_time": "2024-06-30T21:59:00.000Z"
+							},
+							"urplay": {
+								"start_time": "2020-11-11T01:00:00.000Z",
+								"end_time": "2024-06-30T21:59:00.000Z"
+							}
+						},
+						"format": "video",
+						"is_sign_language_interpreted": false,
+						"is_audio_described": false
+					}
+				]
+			},
+			"variant": null,
+			"season_labels": [
+				{
+					"id": 179527,
+					"title": "Idrottens himmel och helvete",
+					"label": "Säsong 1"
+				},
+				{
+					"id": 186161,
+					"title": "Idrottens himmel och helvete",
+					"label": "Säsong 2"
+				},
+				{
+					"id": 218934,
+					"title": "Idrottens himmel och helvete",
+					"label": "Säsong 3"
+				}
+			],
+			"has_interactive_teacher_support": false
+		},
+		{
+			"id": 217459,
+			"title": "Lex Lapidus",
+			"series_title": "Lex Lapidus",
+			"description": "Vi följer Jens Lapidus som lämnat advokatlivet bakom sig för ett liv som författare på Mallorca. Han besöker rättssalar, denna gång i sex olika länder för att jämföra deras rättssystem med det svenska rättssystemet.",
+			"structure": "Linear",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"schoolvux",
+				"adults"
+			],
+			"typical_age_range_translations": [
+				"Allmänbildande"
+			],
+			"main_genre": "Reportage",
+			"categories": [
+				"Samhälle / Lag & rätt"
+			],
+			"play_categories": [
+				"Samhälle"
+			],
+			"modified": "2021-01-12T17:00:58.000Z",
+			"usp": "Jens jämför andra länders rättssystem med det svenska rättssystemet.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/217459/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/217459/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/217459/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/217459/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/217459/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/217459/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/217459/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/217459/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/217459/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/217459/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/217459/images/1_sq.jpg"
+			},
+			"label": null,
+			"age_ranges": [
+				{
+					"from": 15,
+					"to": null
+				}
+			],
+			"program_count": 6,
+			"super_series_id": null,
+			"streamable_program_ids": [
+				217461,
+				217467,
+				217456,
+				217458,
+				217449,
+				217450
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2020-09-02T00:00:00.000Z",
+					"end_time": "2024-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2020-09-02T00:00:00.000Z",
+					"end_time": "2024-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "Lex Lapidus | En jämförelse av olika länders rättssystem",
+			"seo_description": "Tv-serie i sex delar. Jens Lapidus jämför rättssystemet i Sverige med rättssystemet i USA, Israel, England, Rwanda, Spanien.",
+			"subject_tree": [
+				[
+					"Samhällskunskap",
+					"Lag och rätt",
+					"Rättsväsen"
+				]
+			],
+			"educational_description": null,
+			"has_teacher_resource": false,
+			"published_at": "2020-04-23T10:01:30.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"England",
+				"Förenta staterna",
+				"Israel",
+				"Rwanda",
+				"Rättsvetenskap",
+				"Rättsväsen",
+				"Spanien",
+				"Sverige",
+				"Vietnam"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 217459,
+					"version": "ORIGINAL",
+					"title": "Lex Lapidus",
+					"series_title": "Lex Lapidus"
+				},
+				{
+					"id": 217452,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Lex Lapidus - syntolkat",
+					"series_title": "Lex Lapidus - syntolkat"
+				},
+				{
+					"id": 217961,
+					"version": "SIGN_LANGUAGE",
+					"title": "Lex Lapidus - teckenspråkstolkat",
+					"series_title": "Lex Lapidus - teckenspråkstolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": null,
+			"variant": null,
+			"season_labels": [],
+			"has_interactive_teacher_support": false
+		},
+		{
+			"id": 215393,
+			"title": "NO-tv",
+			"series_title": "NO-tv",
+			"description": "I den påhittade tv-kanalen NO-tv handlar allt om NO. Här möter du den självgoda, men hopplösa privatdetektiven Charlotte Holmes som med hjälp av sin assistent Dr Watson löser kluriga fysikmysterier. I den magiska talangjakten försöker El Trollo charma en sträng jury med trollkonster som visar sig vara experiment alla kan göra hemma. Dessutom blir det spänning med den neurotiska uppfinnaren, förvirring i frågesporten NO-kampen och skönsång i den musikaliska topplistan. Välkommen till NO-tv - den enda NO-tv-kanalen du behöver!",
+			"structure": "Collection",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"primary0-3",
+				"children"
+			],
+			"typical_age_range_translations": [
+				"Grundskola F-3"
+			],
+			"main_genre": "Lär-mer-program",
+			"categories": [
+				"Vetenskap & teknik"
+			],
+			"play_categories": [
+				"Barn"
+			],
+			"modified": "2020-01-28T14:01:00.000Z",
+			"usp": "Lekfullt och pedagogiskt om fysik och kemi för lågstadiet.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/215393/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/215393/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/215393/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/215393/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/215393/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/215393/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/215393/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/215393/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/215393/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/215393/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/215393/images/1_sq.jpg"
+			},
+			"label": null,
+			"age_ranges": [
+				{
+					"from": 6,
+					"to": 9
+				}
+			],
+			"program_count": 10,
+			"super_series_id": null,
+			"streamable_program_ids": [
+				215384,
+				215386,
+				215385,
+				215392,
+				215383,
+				215387,
+				215391,
+				215388,
+				215390,
+				215389
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2020-02-24T01:00:00.000Z",
+					"end_time": "2024-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2020-02-24T01:00:00.000Z",
+					"end_time": "2024-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "NO-tv | Fysik och kemi för barn i grundskolan",
+			"seo_description": "Tv-serie i 10 delar. Om fysik och kemi och fenomen som friktion, magnetism, tyngdkraft, balans, ljud och ljus. För lågstadiet.",
+			"subject_tree": [
+				[
+					"Fysik"
+				],
+				[
+					"Kemi"
+				]
+			],
+			"educational_description": "Syftet med serien är att koppla de naturvetenskapliga ämnena till elevernas vardag genom att belysa begrepp ur olika perspektiv på ett lekfullt och intresseväckande sätt. NO-tv ger eleverna goda förutsättningar att få kunskap och förståelse för kraft, rörelse och materials egenskaper förpackat i lustfylld form. Serien presenterar fenomen som friktion, magnetism, tyngdkraft, balans, ljud och ljus.",
+			"has_teacher_resource": false,
+			"published_at": "2019-11-28T16:01:13.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Fysik",
+				"Kemi",
+				"Naturorienterande ämnen"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 215393,
+					"version": "ORIGINAL",
+					"title": "NO-tv",
+					"series_title": "NO-tv"
+				},
+				{
+					"id": 216359,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "NO-tv - syntolkat",
+					"series_title": "NO-tv - syntolkat"
+				},
+				{
+					"id": 216413,
+					"version": "SIGN_LANGUAGE",
+					"title": "NO-tv - teckenspråkstolkat",
+					"series_title": "NO-tv - teckenspråkstolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": null,
+			"variant": null,
+			"season_labels": [],
+			"has_interactive_teacher_support": false
+		},
+		{
+			"id": 215015,
+			"title": "Vara vänner",
+			"series_title": "Vara vänner",
+			"description": "Säsong 2. Hur känns det att bli utfryst i en chatt? När slutar ett bus att vara roligt? Och hur säger man ifrån när en kompis är oschysst mot någon? Vara vänner är en dramaserie för lågstadiet om vänskap, relationer och empati. Historierna ser ut att sluta olyckligt ända tills rollfigurerna inser att de kunde ha handlat annorlunda och får chansen att ge berättelsen ett bättre slut.",
+			"structure": "Collection",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"primary0-3",
+				"children"
+			],
+			"typical_age_range_translations": [
+				"Grundskola F-3"
+			],
+			"main_genre": "Drama",
+			"categories": [
+				"Drama & berättelser"
+			],
+			"play_categories": [
+				"Barn"
+			],
+			"modified": "2021-08-12T14:00:51.000Z",
+			"usp": "Säsong 2. Om vänskap, relationer och empati - och en andra chans.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/215015/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/215015/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/215015/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/215015/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/215015/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/215015/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/215015/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/215015/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/215015/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/215015/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/215015/images/1_sq.jpg"
+			},
+			"label": "Säsong 2",
+			"age_ranges": [
+				{
+					"from": 6,
+					"to": 9
+				}
+			],
+			"program_count": 6,
+			"super_series_id": 217581,
+			"streamable_program_ids": [
+				215005,
+				215013,
+				215017,
+				215010,
+				215003,
+				215011
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2020-05-28T00:00:00.000Z",
+					"end_time": "2024-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2020-05-28T00:00:00.000Z",
+					"end_time": "2024-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "Vara vänner | Säsong 2 | Om vänskap, relationer och empati",
+			"seo_description": "En dramaserie för lågstadiet om vänskap, relationer och empati som är kopplad till skolans värdegrund och uppdrag.",
+			"subject_tree": [
+				[
+					"Samhällskunskap",
+					"Individer och gemenskaper",
+					"Identitet och livsstil",
+					"Barn"
+				],
+				[
+					"Värdegrund"
+				]
+			],
+			"educational_description": "Serien är kopplad till skolans värdegrund och uppdrag. Syftet är att förebygga kränkningar, visa på rätten att få vara den man är och skyldigheten att respektera andra.",
+			"has_teacher_resource": true,
+			"published_at": "2019-11-18T15:01:00.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Barn",
+				"Fiktiva berättelser",
+				"Mobbning",
+				"Skolan",
+				"Vänskap"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 215015,
+					"version": "ORIGINAL",
+					"title": "Vara vänner",
+					"series_title": "Vara vänner"
+				},
+				{
+					"id": 217897,
+					"version": "SIGN_LANGUAGE",
+					"title": "Vara vänner - teckenspråkstolkat",
+					"series_title": "Vara vänner - teckenspråkstolkat"
+				},
+				{
+					"id": 218870,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Vara vänner - syntolkat",
+					"series_title": "Vara vänner - syntolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": null,
+			"variant": null,
+			"season_labels": [
+				{
+					"id": 155113,
+					"title": "Vara vänner",
+					"label": "Säsong 1"
+				},
+				{
+					"id": 215015,
+					"title": "Vara vänner",
+					"label": "Säsong 2"
+				}
+			],
+			"has_interactive_teacher_support": false
+		},
+		{
+			"id": 215006,
+			"title": "De rättslösa",
+			"series_title": "De rättslösa",
+			"description": "11-åriga Justine hittar plötsligt en helt annan värld - där barnens rättigheter står på spel. Hon bestämmer sig för att hjälpa barnen och tillsammans kämpar de för att skapa rättvisa. En berättelse som förklarar barnkonventionen och vad som händer när alla rättigheter försvinner.",
+			"structure": "Linear",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"primary4-6",
+				"children"
+			],
+			"typical_age_range_translations": [
+				"Grundskola 4-6"
+			],
+			"main_genre": "Drama",
+			"categories": [
+				"Drama & berättelser"
+			],
+			"play_categories": [
+				"Barn"
+			],
+			"modified": "2021-05-20T11:39:12.000Z",
+			"usp": "Justine hittar en annan värld - där barnens rättigheter står på spel.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/215006/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/215006/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/215006/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/215006/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/215006/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/215006/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/215006/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/215006/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/215006/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/215006/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/215006/images/1_sq.jpg"
+			},
+			"label": null,
+			"age_ranges": [
+				{
+					"from": 10,
+					"to": 12
+				}
+			],
+			"program_count": 6,
+			"super_series_id": null,
+			"streamable_program_ids": [
+				215009,
+				215016,
+				215008,
+				215004,
+				215012,
+				215014
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2020-01-07T01:00:00.000Z",
+					"end_time": "2024-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2020-01-07T01:00:00.000Z",
+					"end_time": "2024-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "De rättslösa | Om barnkonventionen",
+			"seo_description": "Tv-serie i 8 delar. Dramatiserad berättelse om barnkonventionen. Målgruppen är barn i grundskolan, årskurs 4-6.",
+			"subject_tree": [
+				[
+					"Samhällskunskap",
+					"Barns rättigheter"
+				]
+			],
+			"educational_description": null,
+			"has_teacher_resource": true,
+			"published_at": "2019-11-18T15:00:52.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Barnkonventionen (1989)",
+				"Barns rättigheter",
+				"Fantasivärldar",
+				"Fiktiva berättelser",
+				"Parallella världar",
+				"Rättvisa"
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 215006,
+					"version": "ORIGINAL",
+					"title": "De rättslösa",
+					"series_title": "De rättslösa"
+				},
+				{
+					"id": 216408,
+					"version": "SIGN_LANGUAGE",
+					"title": "De rättslösa - teckenspråkstolkat",
+					"series_title": "De rättslösa - teckenspråkstolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": null,
+			"variant": null,
+			"season_labels": [],
+			"has_interactive_teacher_support": false
+		},
+		{
+			"id": 214041,
+			"title": "Jakten på den glömda historien",
+			"series_title": "Jakten på den glömda historien",
+			"description": "Glömskan och Minnet är två varelser som funnits sedan tidernas begynnelse. På senare tid har Glömskan växt sig starkare än någonsin. Människorna håller på att glömma sina historier. Men i varje generation föds en skaffare, ett barn utsett av Minnet att resa i tiden och samla in barns historier från förr. Vår tids skaffare heter Fabella. Hennes uppdrag är att föra barnens berättelser till Minnesarkivet där Minnet bor. Jakten på den glömda historien är en äventyrsserie för 10-12-åringar som handlar om hur barn har haft det i Sverige från 1890 fram till våra dagar. Berättelserna är inspirerade av verkliga livshistorier från Nordiska museets arkiv.",
+			"structure": "Linear",
+			"product_type": "series",
+			"media_type": "series",
+			"languages": [
+				"swe"
+			],
+			"languages_translations": [
+				"Svenska"
+			],
+			"typical_age_range": [
+				"primary4-6",
+				"children"
+			],
+			"typical_age_range_translations": [
+				"Grundskola 4-6"
+			],
+			"main_genre": "Drama",
+			"categories": [
+				"Drama & berättelser"
+			],
+			"play_categories": [
+				"Barn"
+			],
+			"modified": "2021-01-20T11:01:46.000Z",
+			"usp": "Fabella reser i tiden och samlar in barns historier från förr.",
+			"image": {
+				"1280x720": "https://assets.ur.se/id/214041/images/1_hd.jpg",
+				"960x540": "https://assets.ur.se/id/214041/images/1_xl.jpg",
+				"640x360": "https://assets.ur.se/id/214041/images/1_l.jpg",
+				"480x270": "https://assets.ur.se/id/214041/images/1_ml.jpg",
+				"320x180": "https://assets.ur.se/id/214041/images/1.jpg",
+				"240x135": "https://assets.ur.se/id/214041/images/1_sm.jpg",
+				"160x90": "https://assets.ur.se/id/214041/images/1_s.jpg",
+				"128x72": "https://assets.ur.se/id/214041/images/1_t.jpg",
+				"64x36": "https://assets.ur.se/id/214041/images/1_u.jpg",
+				"360x360": "https://assets.ur.se/id/214041/images/1_sql.jpg",
+				"75x75": "https://assets.ur.se/id/214041/images/1_sq.jpg"
+			},
+			"label": null,
+			"age_ranges": [
+				{
+					"from": 10,
+					"to": 12
+				}
+			],
+			"program_count": 10,
+			"super_series_id": null,
+			"streamable_program_ids": [
+				214043,
+				214045,
+				214047,
+				214051,
+				214048,
+				214052,
+				214044,
+				214050,
+				214046,
+				214049
+			],
+			"accessible_platforms": {
+				"uraccess": {
+					"start_time": "2020-01-07T01:00:00.000Z",
+					"end_time": "2023-06-30T21:59:00.000Z"
+				},
+				"urplay": {
+					"start_time": "2020-01-07T01:00:00.000Z",
+					"end_time": "2023-06-30T21:59:00.000Z"
+				}
+			},
+			"platforms": [
+				"uraccess",
+				"urplay"
+			],
+			"format": "video",
+			"seo_title": "Jakten på den glömda historien | Samhällsfrågor ur barns perspektiv",
+			"seo_description": "En tv-serie i 10 delar om historiska fenomen i Sverige skildrat ut barns perspektiv. För årskurs 4-6.",
+			"subject_tree": [
+				[
+					"Historia",
+					"Efter ca 1900"
+				],
+				[
+					"Historia",
+					"Nya tiden - Sverige och Norden",
+					"1800-talet"
+				],
+				[
+					"Samhällskunskap",
+					"Barns rättigheter"
+				],
+				[
+					"Svenska"
+				]
+			],
+			"educational_description": "Serien visar att alla är en del av historien och inspirerar barn till att berätta sina egna historier. Utifrån ett dåtidsperspektiv beskrivs samhällsfrågor som har lett till var vi står idag. Levnadsvillkor, identitets- och livsfrågor utifrån olika tider i Sverige. Rättigheter som rösträtt, diskriminering och rätten att få strejka. Krigsbarn, naturresurser och ekonomiska villkor.",
+			"has_teacher_resource": true,
+			"published_at": "2019-09-20T13:01:35.000Z",
+			"parental_lock": false,
+			"is_sign_language_interpreted": false,
+			"is_audio_described": false,
+			"is_single": false,
+			"keywords": [
+				"Barn",
+				"Fiktiva berättelser",
+				"Historia",
+				"Minnen",
+				"Parallella världar",
+				"Sverige",
+				"Tidsresor "
+			],
+			"version": "ORIGINAL",
+			"all_versions": [
+				{
+					"id": 214041,
+					"version": "ORIGINAL",
+					"title": "Jakten på den glömda historien",
+					"series_title": "Jakten på den glömda historien"
+				},
+				{
+					"id": 215908,
+					"version": "SIGN_LANGUAGE",
+					"title": "Jakten på den glömda historien - teckenspråkstolkat",
+					"series_title": "Jakten på den glömda historien - teckenspråkstolkat"
+				},
+				{
+					"id": 216228,
+					"version": "AUDIO_DESCRIPTION",
+					"title": "Jakten på den glömda historien - syntolkat",
+					"series_title": "Jakten på den glömda historien - syntolkat"
+				}
+			],
+			"is_current_affairs_program": false,
+			"has_instructional_material_planned": false,
+			"upcoming_programs": [],
+			"relations": {
+				"complementary": [
+					{
+						"id": 214481,
+						"label": "komplement",
+						"title": "Hälsning till framtiden",
+						"description": "Radiodrama som bygger på verkliga berättelser och brev skrivna av barn som levde förr. Minnet är ett väsen som ser till att barns historia aldrig glöms bort. Till sin hjälp har Minnet en \"skaffare\", 12-åriga Fabella, vars uppgift är att resa tillbaka i tiden och spara ett barns historia. I varje avsnitt förflyttas vi till en annan tid, där ett barn berättar om sitt liv, men också om sina tankar om framtiden. Serien är en förlängning av UR:s tv-drama \"Jakten på den glömda historien\". Rekommenderad ålder, 9-12 år.",
+						"product_type": "series",
+						"usp": "12-åriga Fabella reser tillbaka i tiden och samlar in barns historier.",
+						"image": {
+							"1280x720": "https://assets.ur.se/id/214481/images/1_hd.jpg",
+							"960x540": "https://assets.ur.se/id/214481/images/1_xl.jpg",
+							"640x360": "https://assets.ur.se/id/214481/images/1_l.jpg",
+							"480x270": "https://assets.ur.se/id/214481/images/1_ml.jpg",
+							"320x180": "https://assets.ur.se/id/214481/images/1.jpg",
+							"240x135": "https://assets.ur.se/id/214481/images/1_sm.jpg",
+							"160x90": "https://assets.ur.se/id/214481/images/1_s.jpg",
+							"128x72": "https://assets.ur.se/id/214481/images/1_t.jpg",
+							"64x36": "https://assets.ur.se/id/214481/images/1_u.jpg",
+							"360x360": "https://assets.ur.se/id/214481/images/1_sql.jpg",
+							"75x75": "https://assets.ur.se/id/214481/images/1_sq.jpg"
+						},
+						"accessible_platforms": {
+							"uraccess": {
+								"start_time": "2020-01-07T01:00:00.000Z",
+								"end_time": "2023-06-30T21:59:00.000Z"
+							},
+							"urplay": {
+								"start_time": "2020-01-07T01:00:00.000Z",
+								"end_time": "2023-06-30T21:59:00.000Z"
+							}
+						},
+						"format": "audio",
+						"is_sign_language_interpreted": false,
+						"is_audio_described": false
+					}
+				]
+			},
+			"variant": null,
+			"season_labels": [],
+			"has_interactive_teacher_support": false
+		}
+	],
+	"total_results": 2020,
+	"rows": 20
+}
