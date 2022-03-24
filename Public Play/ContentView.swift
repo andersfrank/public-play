@@ -30,7 +30,7 @@ struct ContentView: View {
     }
     
     private func loadData() {
-        self.programs = loadSRPrograms() + loadURPrograms() 
+        self.programs = loadSVTPrograms() + loadSRPrograms() + loadURPrograms()
         print(self.programs)
     }
     
@@ -41,6 +41,10 @@ struct ContentView: View {
     private func loadSRPrograms() -> [Program] {
         guard let programs = SRPopular.loadJSON()?.collection else  { return [] }
         return programs.compactMap { Program(srProgram: $0) }
+    }
+    private func loadSVTPrograms() -> [Program] {
+        guard let programs = SVTPopular.loadJSON()?.data.selections.first?.items[...9] else { return [] }
+        return programs.compactMap { Program(svtProgram: $0) }
     }
 }
 
