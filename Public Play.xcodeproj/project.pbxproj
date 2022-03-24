@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		B75C958127ECA6A100A78A69 /* sr-popular-2022-03-24.json in Resources */ = {isa = PBXBuildFile; fileRef = B75C958027ECA6A100A78A69 /* sr-popular-2022-03-24.json */; };
+		B75C958327ECB03000A78A69 /* graphql-svtplay-popular-2022-03-24.json in Resources */ = {isa = PBXBuildFile; fileRef = B75C958227ECB03000A78A69 /* graphql-svtplay-popular-2022-03-24.json */; };
+		B75C958527ECB05700A78A69 /* SVTModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = B75C958427ECB05700A78A69 /* SVTModels.swift */; };
+		B75C958727ECB1F900A78A69 /* sr-editorialcollections-7954059-2022-03-24.json in Resources */ = {isa = PBXBuildFile; fileRef = B75C958627ECB1F900A78A69 /* sr-editorialcollections-7954059-2022-03-24.json */; };
 		DA70208927EC767B00FE30D3 /* Public_PlayApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA70208827EC767B00FE30D3 /* Public_PlayApp.swift */; };
 		DA70208B27EC767B00FE30D3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA70208A27EC767B00FE30D3 /* ContentView.swift */; };
 		DA70208D27EC767C00FE30D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA70208C27EC767C00FE30D3 /* Assets.xcassets */; };
@@ -40,6 +43,9 @@
 
 /* Begin PBXFileReference section */
 		B75C958027ECA6A100A78A69 /* sr-popular-2022-03-24.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "sr-popular-2022-03-24.json"; sourceTree = "<group>"; };
+		B75C958227ECB03000A78A69 /* graphql-svtplay-popular-2022-03-24.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "graphql-svtplay-popular-2022-03-24.json"; sourceTree = "<group>"; };
+		B75C958427ECB05700A78A69 /* SVTModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SVTModels.swift; sourceTree = "<group>"; };
+		B75C958627ECB1F900A78A69 /* sr-editorialcollections-7954059-2022-03-24.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "sr-editorialcollections-7954059-2022-03-24.json"; sourceTree = "<group>"; };
 		DA70208527EC767B00FE30D3 /* Public Play.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Public Play.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA70208827EC767B00FE30D3 /* Public_PlayApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Public_PlayApp.swift; sourceTree = "<group>"; };
 		DA70208A27EC767B00FE30D3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -161,6 +167,7 @@
 		DA7020BC27ECA58400FE30D3 /* SR */ = {
 			isa = PBXGroup;
 			children = (
+				B75C958627ECB1F900A78A69 /* sr-editorialcollections-7954059-2022-03-24.json */,
 				B75C958027ECA6A100A78A69 /* sr-popular-2022-03-24.json */,
 				DA7020BE27ECA5DE00FE30D3 /* SRModels.swift */,
 			);
@@ -170,6 +177,8 @@
 		DA7020BD27ECA58A00FE30D3 /* SVT */ = {
 			isa = PBXGroup;
 			children = (
+				B75C958227ECB03000A78A69 /* graphql-svtplay-popular-2022-03-24.json */,
+				B75C958427ECB05700A78A69 /* SVTModels.swift */,
 			);
 			path = SVT;
 			sourceTree = "<group>";
@@ -281,7 +290,9 @@
 				DA7020B727EC999300FE30D3 /* most_viewed.json in Resources */,
 				B75C958127ECA6A100A78A69 /* sr-popular-2022-03-24.json in Resources */,
 				DA70209027EC767C00FE30D3 /* Preview Assets.xcassets in Resources */,
+				B75C958327ECB03000A78A69 /* graphql-svtplay-popular-2022-03-24.json in Resources */,
 				DA70208D27EC767C00FE30D3 /* Assets.xcassets in Resources */,
+				B75C958727ECB1F900A78A69 /* sr-editorialcollections-7954059-2022-03-24.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,6 +318,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA7020BB27EC9C7B00FE30D3 /* Program.swift in Sources */,
+				B75C958527ECB05700A78A69 /* SVTModels.swift in Sources */,
 				DA70208B27EC767B00FE30D3 /* ContentView.swift in Sources */,
 				DA70208927EC767B00FE30D3 /* Public_PlayApp.swift in Sources */,
 				DA7020B527EC951B00FE30D3 /* URModels.swift in Sources */,
