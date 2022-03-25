@@ -26,6 +26,7 @@
 		DAEE23C027ED843E000EA1DC /* ProgramLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23BF27ED843E000EA1DC /* ProgramLoader.swift */; };
 		DAEE23C227ED88A6000EA1DC /* ProgramView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23C127ED88A6000EA1DC /* ProgramView.swift */; };
 		DAEE23C427ED9AD4000EA1DC /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23C327ED9AD4000EA1DC /* StartView.swift */; };
+		DAEE23C627EDA414000EA1DC /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23C527EDA414000EA1DC /* MainView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,7 @@
 		DAEE23BF27ED843E000EA1DC /* ProgramLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramLoader.swift; sourceTree = "<group>"; };
 		DAEE23C127ED88A6000EA1DC /* ProgramView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramView.swift; sourceTree = "<group>"; };
 		DAEE23C327ED9AD4000EA1DC /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
+		DAEE23C527EDA414000EA1DC /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				DA70208827EC767B00FE30D3 /* Public_PlayApp.swift */,
 				DA70208A27EC767B00FE30D3 /* ContentView.swift */,
 				DAEE23C327ED9AD4000EA1DC /* StartView.swift */,
+				DAEE23C527EDA414000EA1DC /* MainView.swift */,
 				DAEE23C127ED88A6000EA1DC /* ProgramView.swift */,
 				DA7020BA27EC9C7B00FE30D3 /* Program.swift */,
 				DAEE23BF27ED843E000EA1DC /* ProgramLoader.swift */,
@@ -329,6 +332,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DAEE23C627EDA414000EA1DC /* MainView.swift in Sources */,
 				DA7020BB27EC9C7B00FE30D3 /* Program.swift in Sources */,
 				DAEE23C427ED9AD4000EA1DC /* StartView.swift in Sources */,
 				B75C958527ECB05700A78A69 /* SVTModels.swift in Sources */,

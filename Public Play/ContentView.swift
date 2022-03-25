@@ -35,7 +35,7 @@ struct ContentView: View {
                 }
                 }
             }
-            .navigationTitle("Populärt")
+            .navigationTitle("Sök")
 //            .onAppear(perform: loadData)
         }
     }
