@@ -45,7 +45,7 @@ struct SearchView: View {
         let sorted = allPrograms.sorted()
         guard !searchText.isEmpty else { return sorted }
         return sorted.filter { program in
-            program.title.contains(searchText)
+            program.title.contains(searchText) || program.description.contains(searchText)
         }
     }
 }
