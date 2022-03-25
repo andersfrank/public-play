@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct StartView: View {
-    private var popular = ProgramLoader.load(withProviderLimit: 10)
+    private var popular = ProgramLoader.load(withProviderLimit: 30)
     private var new = ProgramLoader.load(withProviderLimit: 10)
     private var documentaries = ProgramLoader.load(withProviderLimit: 10)
     var body: some View {
