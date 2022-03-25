@@ -10,6 +10,7 @@ import SwiftUI
 struct StartView: View {
     private var popular = ProgramLoader.load(withProviderLimit: 10)
     private var new = ProgramLoader.load(withProviderLimit: 10)
+    private var documentaries = ProgramLoader.load(withProviderLimit: 10)
     var body: some View {
         NavigationView {
             ScrollView(.vertical, showsIndicators: false) {
@@ -22,6 +23,12 @@ struct StartView: View {
                 HList(
                     title: "Nytt",
                     programs: new,
+                    size: .init(width: 140, height: 78)
+                )
+                Spacer(minLength: 20)
+                HList(
+                    title: "Dokumentärer",
+                    programs: documentaries,
                     size: .init(width: 140, height: 78)
                 )
                 Spacer()
