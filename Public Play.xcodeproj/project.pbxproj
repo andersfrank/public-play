@@ -12,7 +12,7 @@
 		B75C958527ECB05700A78A69 /* SVTModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = B75C958427ECB05700A78A69 /* SVTModels.swift */; };
 		B75C958727ECB1F900A78A69 /* sr-editorialcollections-7954059-2022-03-24.json in Resources */ = {isa = PBXBuildFile; fileRef = B75C958627ECB1F900A78A69 /* sr-editorialcollections-7954059-2022-03-24.json */; };
 		DA70208927EC767B00FE30D3 /* Public_PlayApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA70208827EC767B00FE30D3 /* Public_PlayApp.swift */; };
-		DA70208B27EC767B00FE30D3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA70208A27EC767B00FE30D3 /* ContentView.swift */; };
+		DA70208B27EC767B00FE30D3 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA70208A27EC767B00FE30D3 /* SearchView.swift */; };
 		DA70208D27EC767C00FE30D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA70208C27EC767C00FE30D3 /* Assets.xcassets */; };
 		DA70209027EC767C00FE30D3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA70208F27EC767C00FE30D3 /* Preview Assets.xcassets */; };
 		DA70209A27EC767C00FE30D3 /* ModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA70209927EC767C00FE30D3 /* ModelTests.swift */; };
@@ -53,7 +53,7 @@
 		B75C958627ECB1F900A78A69 /* sr-editorialcollections-7954059-2022-03-24.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "sr-editorialcollections-7954059-2022-03-24.json"; sourceTree = "<group>"; };
 		DA70208527EC767B00FE30D3 /* Public Play.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Public Play.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA70208827EC767B00FE30D3 /* Public_PlayApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Public_PlayApp.swift; sourceTree = "<group>"; };
-		DA70208A27EC767B00FE30D3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		DA70208A27EC767B00FE30D3 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 		DA70208C27EC767C00FE30D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA70208F27EC767C00FE30D3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DA70209527EC767C00FE30D3 /* Public PlayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Public PlayTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -123,7 +123,7 @@
 			children = (
 				DAEE23C727EDA9BC000EA1DC /* Public Play.entitlements */,
 				DA70208827EC767B00FE30D3 /* Public_PlayApp.swift */,
-				DA70208A27EC767B00FE30D3 /* ContentView.swift */,
+				DA70208A27EC767B00FE30D3 /* SearchView.swift */,
 				DAEE23C327ED9AD4000EA1DC /* StartView.swift */,
 				DAEE23C527EDA414000EA1DC /* MainView.swift */,
 				DAEE23C127ED88A6000EA1DC /* ProgramView.swift */,
@@ -338,7 +338,7 @@
 				DA7020BB27EC9C7B00FE30D3 /* Program.swift in Sources */,
 				DAEE23C427ED9AD4000EA1DC /* StartView.swift in Sources */,
 				B75C958527ECB05700A78A69 /* SVTModels.swift in Sources */,
-				DA70208B27EC767B00FE30D3 /* ContentView.swift in Sources */,
+				DA70208B27EC767B00FE30D3 /* SearchView.swift in Sources */,
 				DA70208927EC767B00FE30D3 /* Public_PlayApp.swift in Sources */,
 				DA7020B527EC951B00FE30D3 /* URModels.swift in Sources */,
 				DAEE23C027ED843E000EA1DC /* ProgramLoader.swift in Sources */,

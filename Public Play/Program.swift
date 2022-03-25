@@ -39,6 +39,12 @@ struct Program: Identifiable {
     }
 }
 
+extension Program: Comparable {
+    static func < (lhs: Program, rhs: Program) -> Bool {
+        lhs.title < lhs.title
+    }
+}
+
 extension Program {
     init?(urProduct product: Product) {
         guard
