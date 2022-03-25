@@ -14,6 +14,7 @@ struct StartView: View {
         NavigationView {
             ScrollView(.vertical, showsIndicators: false) {
                 HList(title: "Populärt", programs: popular)
+                Spacer(minLength: 20)
                 HList(title: "Nytt", programs: new)
                 Spacer()
             }.navigationTitle("Titta nu")
