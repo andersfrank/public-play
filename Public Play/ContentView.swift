@@ -14,16 +14,16 @@ struct ContentView: View {
             List(programs) { program in
                 NavigationLink(destination: ProgramView(program: program)) {
                 HStack() {
-                    AsyncImage(url: program.image, content: { image in image.resizable().aspectRatio(contentMode: .fill).frame(width: 60, height: 60) }, placeholder: { ProgressView() })
-                        .frame(width: 60, height: 60)
+                    AsyncImage(url: program.image, content: { image in image.resizable().aspectRatio(contentMode: .fill).frame(width: 70, height: 70) }, placeholder: { ProgressView() })
+                        .frame(width: 70, height: 70)
                         .clipped()
                         .cornerRadius(4)
                         .overlay(
                             Image(program.provider.image)
                                 .resizable()
                                 .frame(width: 18, height: 18)
-                                .border(.white, width: 0.5)
-                                .offset(x: 24, y: 24)
+                                .cornerRadius(3)
+                                .offset(x: 21, y: 21)
                                 .shadow(radius: 3)
                         )
                     VStack(alignment: .leading) {
