@@ -27,6 +27,7 @@
 		DAEE23C227ED88A6000EA1DC /* ProgramView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23C127ED88A6000EA1DC /* ProgramView.swift */; };
 		DAEE23C427ED9AD4000EA1DC /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23C327ED9AD4000EA1DC /* StartView.swift */; };
 		DAEE23C627EDA414000EA1DC /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23C527EDA414000EA1DC /* MainView.swift */; };
+		DAEE23C927EDC47A000EA1DC /* ProgramsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23C827EDC47A000EA1DC /* ProgramsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +72,7 @@
 		DAEE23C327ED9AD4000EA1DC /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
 		DAEE23C527EDA414000EA1DC /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		DAEE23C727EDA9BC000EA1DC /* Public Play.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Public Play.entitlements"; sourceTree = "<group>"; };
+		DAEE23C827EDC47A000EA1DC /* ProgramsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 				DA70208827EC767B00FE30D3 /* Public_PlayApp.swift */,
 				DA70208A27EC767B00FE30D3 /* SearchView.swift */,
 				DAEE23C327ED9AD4000EA1DC /* StartView.swift */,
+				DAEE23C827EDC47A000EA1DC /* ProgramsView.swift */,
 				DAEE23C527EDA414000EA1DC /* MainView.swift */,
 				DAEE23C127ED88A6000EA1DC /* ProgramView.swift */,
 				DA7020BA27EC9C7B00FE30D3 /* Program.swift */,
@@ -341,6 +344,7 @@
 				DA70208B27EC767B00FE30D3 /* SearchView.swift in Sources */,
 				DA70208927EC767B00FE30D3 /* Public_PlayApp.swift in Sources */,
 				DA7020B527EC951B00FE30D3 /* URModels.swift in Sources */,
+				DAEE23C927EDC47A000EA1DC /* ProgramsView.swift in Sources */,
 				DAEE23C027ED843E000EA1DC /* ProgramLoader.swift in Sources */,
 				DAEE23BE27ED4CF1000EA1DC /* SVTModels2.swift in Sources */,
 				DA7020BF27ECA5DE00FE30D3 /* SRModels.swift in Sources */,

@@ -50,10 +50,18 @@ struct HList: View {
 
     var body: some View {
         VStack(alignment: .leading) {
+            HStack {
             Text(title)
                 .font(.title3)
                 .fontWeight(.bold)
                 .padding(.horizontal)
+                
+                Spacer()
+// Uncomment to display "Visa alla" button:
+//                NavigationLink(destination: ProgramsView(programs: programs, title: title)) {
+//                    Text("Visa alla").padding(.horizontal)
+//                }
+            }
             ScrollView(.horizontal, showsIndicators: false) {
                 VStack {
                     HStack(spacing: 10) {
@@ -78,7 +86,6 @@ struct HList: View {
                                 }.frame(width: size.width, height: 20)
                             }
                         }
-                        
                     }
                 }
             }
