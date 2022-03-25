@@ -15,7 +15,7 @@ struct MainView: View {
                     Label("Start", systemImage: "play.circle.fill")
                 }
 
-            ContentView()
+            SearchView()
                 .tabItem {
                     Label("Sök", systemImage: "magnifyingglass")
                 }
