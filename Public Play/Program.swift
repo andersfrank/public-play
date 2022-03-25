@@ -58,8 +58,11 @@ extension Program {
 }
 
 extension Program {
-    init(svtProgram program: SVTProgramWrapper) {
-        self.id = Int(program.item.id)!
+    init?(svtProgram program: ItemElement) {
+        guard let idFirst = program.item.id.split(separator: "-").first else { return nil}
+        guard let id = Int(idFirst) else { return nil }
+        
+        self.id = id
         self.title = program.heading
         self.description = program.subHeading
         self.image = URL(string: "https://www.svtstatic.se/image/original/400/\(program.images.wide.id)/\(program.images.wide.changed)")!

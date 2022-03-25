@@ -14,7 +14,7 @@ struct ContentView: View {
             List {
                 ForEach(programs) { program in
                     HStack() {
-                            AsyncImage(url: program.image, content: { image in image.resizable().aspectRatio(contentMode: .fill).frame(width: 50, height: 50) }, placeholder: { ProgressView() })
+                        AsyncImage(url: program.image, content: { image in image.resizable().aspectRatio(contentMode: .fill).frame(width: 50, height: 50) }, placeholder: { ProgressView() })
                             .frame(width: 50, height: 50)
                             .clipped()
                             .cornerRadius(10)
@@ -38,8 +38,9 @@ struct ContentView: View {
     }
     
     private func loadData() {
-        self.programs = loadSVTPrograms() + loadSRPrograms() + loadURPrograms()
-        print(self.programs)
+        var programs = loadSVTPrograms() + loadSRPrograms() + loadURPrograms()
+        programs.shuffle()
+        self.programs = programs
     }
     
     private func loadURPrograms() -> [Program] {
@@ -51,7 +52,10 @@ struct ContentView: View {
         return programs.compactMap { Program(srProgram: $0) }
     }
     private func loadSVTPrograms() -> [Program] {
-        guard let programs = SVTPopular.loadJSON()?.data.selections.first?.items[...9] else { return [] }
+        guard
+            let welcome = try? Welcome.loadJSON(),
+            let programs =  welcome.data.startForSvtPlay.selections.first?.items[...9]
+        else { return [] }
         return programs.compactMap { Program(svtProgram: $0) }
     }
 }
