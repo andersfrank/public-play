@@ -24,7 +24,7 @@ struct ProgramView: View {
                         image.resizable().aspectRatio( contentMode: .fill) }, placeholder: { ProgressView() }
                 )
                 .frame(width: weightSizeOfImage, height: heightSizeOfImage)
-                .background(Color.gray)
+                .background(Color("PlaceholderBackground"))
                 .clipped()
                 
                 Text(program.description)
