@@ -8,70 +8,15 @@
 import SwiftUI
 
 struct StartView: View {
-    @State private var programs = ProgramLoader.load(withProviderLimit: 10)
+    private var popular = ProgramLoader.load(withProviderLimit: 10)
+    private var new = ProgramLoader.load(withProviderLimit: 10)
     var body: some View {
         NavigationView {
             ScrollView(.vertical, showsIndicators: false) {
-                VStack(alignment: .leading) {
-                    Text("  Populärt")
-                        .font(.title2)
-                        .fontWeight(.bold)
-                    ScrollView(.horizontal, showsIndicators: false) {
-                        HStack(spacing: 20) {
-                            ForEach(programs) { program in
-                                VStack(alignment: .leading) {
-                                    AsyncImage(url: program.image, content: { image in image.resizable().aspectRatio(contentMode: .fill).frame(width: 300, height: 170) }, placeholder: { ProgressView() })
-                                        .frame(width: 300, height: 170)
-                                        .clipped()
-                                        .cornerRadius(4)
-                                        .overlay(
-                                            Image(program.provider.image)
-                                                .resizable()
-                                                .frame(width: 18, height: 18)
-                                                .cornerRadius(3)
-                                                .offset(x: 21, y: 21)
-                                                .shadow(radius: 3)
-                                        )
-                                        
-                                    HStack {
-                                        Text(program.title)
-                                        Spacer()
-                                    }.frame(width: 300, height: 20)
-                                }
-                            }
-                        }
-                    }
-                }
-                
+                HList(title: "Populärt", programs: popular)
+                HList(title: "Nytt", programs: new)
                 Spacer()
-            }
-            
-//            List(programs) { program in
-//                NavigationLink(destination: ProgramView(program: program)) {
-//                HStack() {
-//                    AsyncImage(url: program.image, content: { image in image.resizable().aspectRatio(contentMode: .fill).frame(width: 70, height: 70) }, placeholder: { ProgressView() })
-//                        .frame(width: 70, height: 70)
-//                        .clipped()
-//                        .cornerRadius(4)
-//                        .overlay(
-//                            Image(program.provider.image)
-//                                .resizable()
-//                                .frame(width: 18, height: 18)
-//                                .cornerRadius(3)
-//                                .offset(x: 21, y: 21)
-//                                .shadow(radius: 3)
-//                        )
-//                    VStack(alignment: .leading) {
-//                        Text(program.title)
-//                        Text(program.description)
-//                            .font(.subheadline)
-//                            .foregroundColor(.secondary)
-//                    }
-//                }
-//                }
-//            }
-//            .navigationTitle("Populärt")
-//            .onAppear(perform: loadData)
+            }.navigationTitle("Titta nu")
         }
     }
 }
@@ -79,5 +24,43 @@ struct StartView: View {
 struct StartView_Previews: PreviewProvider {
     static var previews: some View {
         StartView()
+    }
+}
+
+struct HList: View {
+    var title: String
+    var programs: [Program]
+
+    var body: some View {
+        VStack(alignment: .leading) {
+            Text(title)
+                .font(.title2)
+                .fontWeight(.bold)
+            ScrollView(.horizontal, showsIndicators: false) {
+                HStack(spacing: 10) {
+                    ForEach(programs) { program in
+                        VStack(alignment: .leading) {
+                            AsyncImage(url: program.image, content: { image in image.resizable().aspectRatio(contentMode: .fill).frame(width: 330, height: 1850) }, placeholder: { ProgressView() })
+                                .frame(width: 330, height: 185)
+                                .clipped()
+                                .cornerRadius(4)
+                                .overlay(
+                                    Image(program.provider.image)
+                                        .resizable()
+                                        .frame(width: 40, height: 40)
+                                        .cornerRadius(3)
+                                        .offset(x: 139, y: 67)
+                                        .shadow(radius: 3)
+                                ).shadow(radius: 3)
+                                
+                            HStack {
+                                Text(program.title)
+                                Spacer()
+                            }.frame(width: 300, height: 20)
+                        }
+                    }
+                }
+            }
+        }
     }
 }
