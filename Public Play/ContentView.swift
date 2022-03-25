@@ -8,21 +8,23 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var programs: [Program] = []
+    @State private var programs = ProgramLoader.load(withProviderLimit: 10)
     var body: some View {
         NavigationView {
             List(programs) { program in
                 NavigationLink(destination: ProgramView(program: program)) {
                 HStack() {
-                    AsyncImage(url: program.image, content: { image in image.resizable().aspectRatio(contentMode: .fill).frame(width: 50, height: 50) }, placeholder: { ProgressView() })
-                        .frame(width: 50, height: 50)
+                    AsyncImage(url: program.image, content: { image in image.resizable().aspectRatio(contentMode: .fill).frame(width: 60, height: 60) }, placeholder: { ProgressView() })
+                        .frame(width: 60, height: 60)
                         .clipped()
-                        .cornerRadius(10)
+                        .cornerRadius(4)
                         .overlay(
-                            Image("srplay")
+                            Image(program.provider.image)
                                 .resizable()
-                                .frame(width: 16, height: 16)
-                                .offset(x: 20, y: 20)
+                                .frame(width: 18, height: 18)
+                                .border(.white, width: 0.5)
+                                .offset(x: 24, y: 24)
+                                .shadow(radius: 3)
                         )
                     VStack(alignment: .leading) {
                         Text(program.title)
@@ -32,13 +34,10 @@ struct ContentView: View {
                     }
                 }
                 }
-            }.onAppear(perform: loadData).navigationTitle("Populärt")
+            }
+            .navigationTitle("Populärt")
+//            .onAppear(perform: loadData)
         }
-    }
-    
-    private func loadData() {
-        self.programs = ProgramLoader.load(withProviderLimit: 10)
-        print("count: \(self.programs.count)")
     }
 }
 

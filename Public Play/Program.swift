@@ -13,6 +13,14 @@ struct Program: Identifiable {
         case sr
         case svt
         case ur
+        
+        var image: String {
+            switch self {
+            case .sr: return "srplay"
+            case .svt: return "svtplay"
+            case .ur: return "urplay"
+            }
+        }
     }
     
     var id: Int

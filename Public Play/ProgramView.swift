@@ -46,7 +46,7 @@ struct ProgramView: View {
             
             HStack(alignment: .top) {
                 VStack(alignment: .leading) {
-                    Image("srplay")
+                    Image(program.provider.image)
                         .resizable()
                         .frame(width: 32, height: 32)
                     Spacer()
