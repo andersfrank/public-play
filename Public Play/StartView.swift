@@ -40,7 +40,7 @@ struct HList: View {
                 HStack(spacing: 10) {
                     ForEach(programs) { program in
                         VStack(alignment: .leading) {
-                            AsyncImage(url: program.image, content: { image in image.resizable().aspectRatio(contentMode: .fill).frame(width: 330, height: 1850) }, placeholder: { ProgressView() })
+                            AsyncImage(url: program.image, content: { image in image.resizable().aspectRatio(contentMode: .fill).frame(width: 330, height: 185) }, placeholder: { ProgressView() })
                                 .frame(width: 330, height: 185)
                                 .clipped()
                                 .cornerRadius(4)
