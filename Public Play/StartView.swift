@@ -20,17 +20,37 @@ struct StartView: View {
                     size: .init(width: 330, height: 185)
                 )
                 Spacer(minLength: 30)
+                
+                HStack {
+                    Text("Public service samlat ❤️")
+                        .font(.title3)
+                        .fontWeight(.bold)
+                        .padding(.horizontal)
+                    Spacer()
+                }
+                HStack {
+                    IconView(provider: .sr)
+                    IconView(provider: .svt)
+                    IconView(provider: .ur)
+                    Spacer()
+                }.padding(.horizontal)
+                
+                Spacer(minLength: 30)
+                
                 HList(
                     title: "Nytt",
                     programs: new,
                     size: .init(width: 140, height: 78)
                 )
+                
                 Spacer(minLength: 30)
+                
                 HList(
                     title: "Dokumentärer",
                     programs: documentaries,
                     size: .init(width: 140, height: 78)
                 )
+                
                 Spacer()
             }.navigationTitle("Titta nu")
         }
@@ -99,5 +119,16 @@ struct HList: View {
                 .padding(.horizontal)
             }
         }
+    }
+}
+
+struct IconView: View {
+    let provider: Program.Provider
+    var body: some View {
+        Image(provider.image)
+            .resizable()
+            .frame(width: 40, height: 40)
+            .cornerRadius(3)
+            .shadow(radius: 3)
     }
 }
