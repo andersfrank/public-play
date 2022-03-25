@@ -59,7 +59,7 @@ extension Program {
 
 extension Program {
     init?(svtProgram program: ItemElement) {
-        guard let idFirst = program.item.id.split(separator: "-").first else { return nil}
+        guard let idFirst = program.item.id.split(separator: "-").first else { return nil}
         guard let id = Int(idFirst) else { return nil }
         
         self.id = id
@@ -71,4 +71,14 @@ extension Program {
     }
 }
 
+extension Program {
+    static let mock = Program(
+        id: 204027,
+        title: "Samisk historia med Ailo",
+        description: "Om hur händelser i historien påverkar unga samer i dag.",
+        image: URL(string: "https://assets.ur.se/id/204027/images/1_ml.jpg")!,
+        url: URL(string: "https://urplay.se/program/\(204027)")!,
+        provider: .ur
+    )
+}
 
