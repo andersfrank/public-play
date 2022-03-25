@@ -12,6 +12,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             List(programs) { program in
+                NavigationLink(destination: ProgramView(program: program)) {
                 HStack() {
                     AsyncImage(url: program.image, content: { image in image.resizable().aspectRatio(contentMode: .fill).frame(width: 50, height: 50) }, placeholder: { ProgressView() })
                         .frame(width: 50, height: 50)
@@ -29,6 +30,7 @@ struct ContentView: View {
                             .font(.subheadline)
                             .foregroundColor(.secondary)
                     }
+                }
                 }
             }.onAppear(perform: loadData).navigationTitle("Populärt")
         }

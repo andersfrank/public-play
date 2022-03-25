@@ -24,6 +24,7 @@
 		DA7020BF27ECA5DE00FE30D3 /* SRModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7020BE27ECA5DE00FE30D3 /* SRModels.swift */; };
 		DAEE23BE27ED4CF1000EA1DC /* SVTModels2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23BD27ED4CF1000EA1DC /* SVTModels2.swift */; };
 		DAEE23C027ED843E000EA1DC /* ProgramLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23BF27ED843E000EA1DC /* ProgramLoader.swift */; };
+		DAEE23C227ED88A6000EA1DC /* ProgramView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23C127ED88A6000EA1DC /* ProgramView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		DA7020BE27ECA5DE00FE30D3 /* SRModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SRModels.swift; sourceTree = "<group>"; };
 		DAEE23BD27ED4CF1000EA1DC /* SVTModels2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SVTModels2.swift; sourceTree = "<group>"; };
 		DAEE23BF27ED843E000EA1DC /* ProgramLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramLoader.swift; sourceTree = "<group>"; };
+		DAEE23C127ED88A6000EA1DC /* ProgramView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 			children = (
 				DA70208827EC767B00FE30D3 /* Public_PlayApp.swift */,
 				DA70208A27EC767B00FE30D3 /* ContentView.swift */,
+				DAEE23C127ED88A6000EA1DC /* ProgramView.swift */,
 				DA7020BA27EC9C7B00FE30D3 /* Program.swift */,
 				DAEE23BF27ED843E000EA1DC /* ProgramLoader.swift */,
 				DA7020B227EC82D500FE30D3 /* Providers */,
@@ -331,6 +334,7 @@
 				DAEE23C027ED843E000EA1DC /* ProgramLoader.swift in Sources */,
 				DAEE23BE27ED4CF1000EA1DC /* SVTModels2.swift in Sources */,
 				DA7020BF27ECA5DE00FE30D3 /* SRModels.swift in Sources */,
+				DAEE23C227ED88A6000EA1DC /* ProgramView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
