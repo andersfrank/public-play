@@ -46,7 +46,8 @@ struct ProgramView: View {
                     .background(Color("ProgramContentBackground"))
                 }
             }
-        }.navigationTitle(program.title)
+        }.navigationBarTitleDisplayMode(.inline)
+        //.navigationTitle(program.title)
     }
 }
 
@@ -55,11 +56,25 @@ struct ContentView: View {
     let isPortrait: Bool
     
     var body: some View {
-        Text(program.description)
-            .font(.body)
-            .foregroundColor(.primary)
-            .multilineTextAlignment(.leading)
-            .padding(.all)
+        
+        if isPortrait {
+            Spacer().frame(height: 10)
+        }
+        
+        HStack {
+            VStack(alignment: .leading, spacing: 4) {
+                Text(program.title)
+                    .font(.headline)
+                    .multilineTextAlignment(.leading)
+                
+                Text(program.longDescription)
+                    .font(.body)
+                    .foregroundColor(.primary)
+                    .multilineTextAlignment(.leading)
+            }.padding(.all)
+            Spacer()
+        }
+        
         
         if !isPortrait {
             Spacer()
