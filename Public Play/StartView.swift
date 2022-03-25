@@ -58,6 +58,7 @@ struct HList: View {
                 VStack {
                     HStack(spacing: 10) {
                         ForEach(programs) { program in
+                            NavigationLink(destination: ProgramView(program: program)) {
                             VStack(alignment: .leading) {
                                 AsyncImage(url: program.image, content: { image in image.resizable().aspectRatio(contentMode: .fill).frame(width: size.width, height: size.height) }, placeholder: { ProgressView() })
                                     .frame(width: size.width, height: size.height)
@@ -71,17 +72,18 @@ struct HList: View {
                                             .offset(x: size.width / 2 - size.width / 11, y: size.height / 2 - size.width / 12)
                                             .shadow(radius: 3)
                                     ).shadow(radius: 3)
-                                
                                 HStack {
                                     Text(program.title)
                                     Spacer()
                                 }.frame(width: size.width, height: 20)
                             }
                         }
+                        
                     }
                 }
-                .padding(.horizontal)
             }
+            .padding(.horizontal)
         }
     }
+}
 }
