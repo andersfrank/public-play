@@ -26,13 +26,15 @@ struct Program: Identifiable {
     var id: Int
     var title: String
     var description: String
+    var longDescription: String
     var image: URL
     var url: URL?
     var provider: Provider
-    init(id: Int, title: String, description: String, image: URL, url: URL?, provider: Provider) {
+    init(id: Int, title: String, description: String, longDescription: String, image: URL, url: URL?, provider: Provider) {
         self.id = id
         self.title = title
         self.description = description
+        self.longDescription = longDescription
         self.image = image
         self.url = url
         self.provider = provider
@@ -54,6 +56,7 @@ extension Program {
         self.id = id
         self.title = product.title ?? ""
         self.description = product.usp ?? ""
+        self.longDescription = product.description ?? ""
         self.image = image
         self.url = URL(string: "https://urplay.se/program/\(id)")
         self.provider = .ur
@@ -65,6 +68,7 @@ extension Program {
         self.id = Int(program.id)!
         self.title = program.title
         self.description = program.description
+        self.longDescription = program.description
         self.image = program.image
         self.url = program.url
         self.provider = .sr
@@ -79,6 +83,7 @@ extension Program {
         self.id = id
         self.title = program.heading
         self.description = program.subHeading
+        self.longDescription = program.item.longDescription
         self.image = URL(string: "https://www.svtstatic.se/image/original/400/\(program.images.wide.id)/\(program.images.wide.changed)")!
         self.url = URL(string: "https://www.svtplay.se\(program.item.urls.svtplay)")
         self.provider = .svt
@@ -90,6 +95,7 @@ extension Program {
         id: 204027,
         title: "Samisk historia med Ailo",
         description: "Om hur händelser i historien påverkar unga samer i dag.",
+        longDescription: "Om hur händelser i historien påverkar unga samer i dag. Om hur händelser i historien påverkar unga samer i dag.",
         image: URL(string: "https://assets.ur.se/id/204027/images/1_ml.jpg")!,
         url: URL(string: "https://urplay.se/program/\(204027)")!,
         provider: .ur
