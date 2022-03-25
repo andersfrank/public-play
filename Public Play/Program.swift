@@ -73,6 +73,20 @@ extension Program {
         self.url = program.url
         self.provider = .sr
     }
+    init?(srEpisode episode: Episode) {
+        guard
+            let image = URL(string: episode.imageurl),
+            let url = URL(string: episode.url)
+        else { return nil }
+        
+        self.id = episode.id
+        self.title = String(episode.title.prefix(40))
+        self.description = String(episode.episodeDescription.prefix(80))
+        self.longDescription = episode.episodeDescription
+        self.image = image
+        self.url = url
+        self.provider = .sr
+    }
 }
 
 extension Program {

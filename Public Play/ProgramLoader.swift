@@ -19,9 +19,14 @@ struct ProgramLoader {
         guard let products = SearchResponse.loadJSON()?.results else  { return [] }
         return products.compactMap { Program(urProduct: $0) }
     }
+//    private static func loadSRPrograms() -> [Program] {
+//        guard let srPrograms = SRPopular.loadJSON()?.collection else  { return [] }
+//        return srPrograms.compactMap({ Program(srProgram: $0) })
+//
+//    }
     private static func loadSRPrograms() -> [Program] {
-        guard let srPrograms = SRPopular.loadJSON()?.collection else  { return [] }
-        return srPrograms.compactMap({ Program(srProgram: $0) })
+        guard let episodes = SRWelcome.loadJSON()?.episodes else  { return [] }
+        return episodes.compactMap { Program(srEpisode: $0) }
         
     }
     private static func loadSVTPrograms() -> [Program] {

@@ -28,6 +28,7 @@
 		DAEE23C427ED9AD4000EA1DC /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23C327ED9AD4000EA1DC /* StartView.swift */; };
 		DAEE23C627EDA414000EA1DC /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23C527EDA414000EA1DC /* MainView.swift */; };
 		DAEE23C927EDC47A000EA1DC /* ProgramsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23C827EDC47A000EA1DC /* ProgramsView.swift */; };
+		DAEE23CB27EDD568000EA1DC /* SRModels2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23CA27EDD568000EA1DC /* SRModels2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +74,7 @@
 		DAEE23C527EDA414000EA1DC /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		DAEE23C727EDA9BC000EA1DC /* Public Play.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Public Play.entitlements"; sourceTree = "<group>"; };
 		DAEE23C827EDC47A000EA1DC /* ProgramsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramsView.swift; sourceTree = "<group>"; };
+		DAEE23CA27EDD568000EA1DC /* SRModels2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SRModels2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,6 +191,7 @@
 				B75C958627ECB1F900A78A69 /* sr-editorialcollections-7954059-2022-03-24.json */,
 				B75C958027ECA6A100A78A69 /* sr-popular-2022-03-24.json */,
 				DA7020BE27ECA5DE00FE30D3 /* SRModels.swift */,
+				DAEE23CA27EDD568000EA1DC /* SRModels2.swift */,
 			);
 			path = SR;
 			sourceTree = "<group>";
@@ -345,6 +348,7 @@
 				DA70208927EC767B00FE30D3 /* Public_PlayApp.swift in Sources */,
 				DA7020B527EC951B00FE30D3 /* URModels.swift in Sources */,
 				DAEE23C927EDC47A000EA1DC /* ProgramsView.swift in Sources */,
+				DAEE23CB27EDD568000EA1DC /* SRModels2.swift in Sources */,
 				DAEE23C027ED843E000EA1DC /* ProgramLoader.swift in Sources */,
 				DAEE23BE27ED4CF1000EA1DC /* SVTModels2.swift in Sources */,
 				DA7020BF27ECA5DE00FE30D3 /* SRModels.swift in Sources */,
