@@ -23,6 +23,7 @@
 		DA7020BB27EC9C7B00FE30D3 /* Program.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7020BA27EC9C7B00FE30D3 /* Program.swift */; };
 		DA7020BF27ECA5DE00FE30D3 /* SRModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7020BE27ECA5DE00FE30D3 /* SRModels.swift */; };
 		DAEE23BE27ED4CF1000EA1DC /* SVTModels2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23BD27ED4CF1000EA1DC /* SVTModels2.swift */; };
+		DAEE23C027ED843E000EA1DC /* ProgramLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAEE23BF27ED843E000EA1DC /* ProgramLoader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		DA7020BA27EC9C7B00FE30D3 /* Program.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Program.swift; sourceTree = "<group>"; };
 		DA7020BE27ECA5DE00FE30D3 /* SRModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SRModels.swift; sourceTree = "<group>"; };
 		DAEE23BD27ED4CF1000EA1DC /* SVTModels2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SVTModels2.swift; sourceTree = "<group>"; };
+		DAEE23BF27ED843E000EA1DC /* ProgramLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramLoader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				DA70208827EC767B00FE30D3 /* Public_PlayApp.swift */,
 				DA70208A27EC767B00FE30D3 /* ContentView.swift */,
 				DA7020BA27EC9C7B00FE30D3 /* Program.swift */,
+				DAEE23BF27ED843E000EA1DC /* ProgramLoader.swift */,
 				DA7020B227EC82D500FE30D3 /* Providers */,
 				DA70208C27EC767C00FE30D3 /* Assets.xcassets */,
 				DA70208E27EC767C00FE30D3 /* Preview Content */,
@@ -325,6 +328,7 @@
 				DA70208B27EC767B00FE30D3 /* ContentView.swift in Sources */,
 				DA70208927EC767B00FE30D3 /* Public_PlayApp.swift in Sources */,
 				DA7020B527EC951B00FE30D3 /* URModels.swift in Sources */,
+				DAEE23C027ED843E000EA1DC /* ProgramLoader.swift in Sources */,
 				DAEE23BE27ED4CF1000EA1DC /* SVTModels2.swift in Sources */,
 				DA7020BF27ECA5DE00FE30D3 /* SRModels.swift in Sources */,
 			);

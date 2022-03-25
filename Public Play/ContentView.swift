@@ -38,25 +38,8 @@ struct ContentView: View {
     }
     
     private func loadData() {
-        var programs = loadSVTPrograms() + loadSRPrograms() + loadURPrograms()
-        programs.shuffle()
-        self.programs = programs
-    }
-    
-    private func loadURPrograms() -> [Program] {
-        guard let products = SearchResponse.loadJSON()?.results else  { return [] }
-        return products.compactMap { Program(urProduct: $0) }
-    }
-    private func loadSRPrograms() -> [Program] {
-        guard let programs = SRPopular.loadJSON()?.collection else  { return [] }
-        return programs.compactMap { Program(srProgram: $0) }
-    }
-    private func loadSVTPrograms() -> [Program] {
-        guard
-            let welcome = try? Welcome.loadJSON(),
-            let programs =  welcome.data.startForSvtPlay.selections.first?.items[...9]
-        else { return [] }
-        return programs.compactMap { Program(svtProgram: $0) }
+        self.programs = ProgramLoader.load(withProviderLimit: 10)
+        print("count: \(self.programs.count)")
     }
 }
 
