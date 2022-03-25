@@ -32,9 +32,12 @@ struct ProgramView: View {
                     
                 HStack(alignment: .center) {
                     Spacer()
-                    Button("Spela ") { }
+                    Button("Spela ") {
+                        openProgram()
+                    }
                         .buttonStyle(.borderedProminent)
                         .tint(.mint)
+                        
                     Spacer()
                 }
                 
@@ -50,10 +53,12 @@ struct ProgramView: View {
                 }
                 Spacer()
             }
-            
-            
         }
-       
+    }
+    
+    private func openProgram() {
+        guard let url = program.url else { return }
+        UIApplication.shared.open(url)
     }
 }
 
