@@ -19,13 +19,13 @@ struct StartView: View {
                     programs: popular,
                     size: .init(width: 330, height: 185)
                 )
-                Spacer(minLength: 20)
+                Spacer(minLength: 30)
                 HList(
                     title: "Nytt",
                     programs: new,
                     size: .init(width: 140, height: 78)
                 )
-                Spacer(minLength: 20)
+                Spacer(minLength: 30)
                 HList(
                     title: "Dokumentärer",
                     programs: documentaries,
@@ -73,7 +73,7 @@ struct HList: View {
                                             .shadow(radius: 3)
                                     ).shadow(radius: 3)
                                 HStack {
-                                    Text(program.title)
+                                    Text(program.title).foregroundColor(.primary)
                                     Spacer()
                                 }.frame(width: size.width, height: 20)
                             }
