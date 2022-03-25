@@ -10,6 +10,10 @@ import SwiftUI
 struct ProgramView: View {
     let program: Program
     
+    @State var heightSizeOfImage: CGFloat = UIScreen.main.bounds.height/2
+    
+    @State var weightSizeOfImage: CGFloat = UIScreen.main.bounds.width
+    
     var body: some View {
         ZStack {
             VStack(alignment: .leading, spacing: 20) {
@@ -17,28 +21,31 @@ struct ProgramView: View {
                 AsyncImage(
                     url: program.image,
                     content: { image in
-                        image.resizable().aspectRatio(contentMode: .fill) }, placeholder: { ProgressView() }
+                        image.resizable().aspectRatio( contentMode: .fill) }, placeholder: { ProgressView() }
                 )
-                .frame(minWidth: 0, maxWidth: 5000, minHeight: 0, maxHeight: 150)
+                .frame(width: weightSizeOfImage, height: heightSizeOfImage)
+                .background(Color.gray)
                 .clipped()
-
-                HStack(alignment: .center) {
-                    Spacer()
-                    Text(program.title)
-                        .font(.title)
-                        .multilineTextAlignment(.center)
-                    Spacer()
-                }
-                    
-                HStack(alignment: .center) {
-                    Spacer()
-                    Button("Spela ") {
-                        openProgram()
-                    }
+                
+                Text(program.description)
+                    .font(.body)
+                    .multilineTextAlignment(.leading)
+                    .padding(.horizontal)
+                
+                VStack {
+                    HStack(alignment: .center) {
+                        Spacer()
+                        Button() {
+                            openProgram()
+                        } label: {
+                            Label("Spela", systemImage: "play.fill").padding(.horizontal).font(.callout.bold())
+                        }
                         .buttonStyle(.borderedProminent)
-                        .tint(.mint)
+                        .tint(.accentColor)
                         
-                    Spacer()
+                        Spacer()
+                    }
+                    .padding(.horizontal)
                 }
                 
                 Spacer()
@@ -53,7 +60,7 @@ struct ProgramView: View {
                 }
                 Spacer()
             }
-        }
+        }.navigationTitle(program.title)
     }
     
     private func openProgram() {
