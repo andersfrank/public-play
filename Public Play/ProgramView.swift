@@ -18,7 +18,7 @@ struct ProgramView: View {
                     content: { image in
                         image.resizable().aspectRatio( contentMode: .fill) }, placeholder: { ProgressView() }
                 )
-                .frame(width: geo.size.width, height: geo.size.height * 9/16)
+                .frame(width: geo.size.width, height: (geo.size.height > geo.size.width) ?  geo.size.width * 9/16 : geo.size.height * 9/16)
                 .background(Color("PlaceholderBackground"))
                 .clipped()
                 .overlay(
