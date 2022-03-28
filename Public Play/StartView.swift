@@ -60,7 +60,7 @@ struct StartView: View {
 struct StartView_Previews: PreviewProvider {
     static var previews: some View {
         Group {
-            StartView()
+//            StartView()
             
             StartView()
                 .environment(\.colorScheme, .dark)
@@ -75,17 +75,16 @@ struct HList: View {
     
     var body: some View {
         VStack(alignment: .leading) {
-            HStack {
+            HStack(alignment: .firstTextBaseline, spacing: 16) {
             Text(title)
                 .font(.title3)
                 .fontWeight(.bold)
                 .padding(.horizontal)
                 
                 Spacer()
-// Uncomment to display "Visa alla" button:
-//                NavigationLink(destination: ProgramsView(programs: programs, title: title)) {
-//                    Text("Visa alla").padding(.horizontal)
-//                }
+                NavigationLink(destination: ProgramsView(programs: programs, title: title)) {
+                    Text("Visa alla").padding(.horizontal)
+                }
             }
             ScrollView(.horizontal, showsIndicators: false) {
                 VStack {

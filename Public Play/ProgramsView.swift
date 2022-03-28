@@ -10,14 +10,53 @@ import SwiftUI
 struct ProgramsView: View {
     var programs: [Program]
     var title: String
-    let size = CGSize(width: 100, height: 50)
+    let columns: [GridItem] = Array(repeating: .init(.flexible()), count: 2)
+    
     var body: some View {
-        NavigationView {
-            ScrollView(.vertical, showsIndicators: false) {
-                Text("Work in progress ⚠️")
-                Spacer()
-            }.navigationTitle(title)
-        }
+        ScrollView(.vertical, showsIndicators: false) {
+            LazyVGrid(columns: columns) {
+                ForEach(programs) { program in
+                    NavigationLink(destination: ProgramView(program: program)) {
+                        ZStack {
+                            AsyncImage(url: program.image, content: {
+                                image in image
+                                    .resizable()
+                                    .aspectRatio(contentMode: .fill)
+                                    .layoutPriority(-1)
+                            }, placeholder: { ProgressView() })
+                            
+                            
+                            VStack {
+                                Spacer()
+                                    .frame(maxWidth: .infinity)
+                                    .overlay(
+                                        Image(program.provider.image)
+                                            .resizable()
+                                            .frame(
+                                                width: 32,
+                                                height: 32
+                                            )
+                                            .cornerRadius(3)
+                                            .shadow(radius: 3)
+                                            .padding(8)
+                                        ,
+                                        alignment: .bottomTrailing
+                                    )
+                            }
+                        }
+                        .clipped()
+                        .aspectRatio(16/9, contentMode: .fill)
+                        .background(Color("PlaceholderBackground"))
+                        .cornerRadius(4)
+                        .padding([.top, .bottom])
+                        .padding(.leading, 4.0)
+                    }
+                }
+            }
+            .padding(.leading, 12.0)
+            .padding(.trailing)
+            Spacer()
+        }.navigationTitle(title)
     }
 }
 
