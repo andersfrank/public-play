@@ -24,8 +24,12 @@ struct ProgramView: View {
                 .overlay(
                     Image(program.provider.image)
                         .resizable()
-                        .frame(width: 32, height: 32).padding(.all),
-                    alignment: .topTrailing)
+                        .frame(width: 32, height: 32)
+                        .cornerRadius(3)
+                        .shadow(radius: 3)
+                        .padding(.all),
+                    alignment: .bottomTrailing)
+                
                 
                 Text(program.title)
                     .font(.title)
